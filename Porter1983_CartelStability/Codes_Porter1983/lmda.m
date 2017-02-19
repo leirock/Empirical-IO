@@ -1,5 +1,5 @@
 function f = lmda(beta)
-% This function computes the weights for the expected maximum log likelihood
+% This function computes the weights for the expected maximum likelihood
 global n N nb1d nb1s nb wght lambda pn
 load 'Data/jecnew'; 
 

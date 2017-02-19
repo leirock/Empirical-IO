@@ -22,8 +22,8 @@ ydot=[Y(:,1);Y(:,2)];
 W(:,size(W,2))=pn; %po replaced with the new weights
 Z2(:,size(Z2,2))=pn; %po replaced with the new weights
 Xdot=blkdiag([Z1 lngr],[Z2 lnQ]);
-kost=-(G*T/2)*log(2*pi)-(T/2)*log(det(SG))+T*(log(abs(det(GM)))); %The first part of the log likelihood
-f=-kost+.5*((ydot-Xdot*betadot)'*kron(inv(SG),eye(T))*(ydot-Xdot*betadot)); %(-) the log likelihood
+kost=-(G*T/2)*log(2*pi)-(T/2)*log(det(SG))+T*(log(abs(det(GM)))); %The first part of the negative log likelihood
+f=-kost+.5*((ydot-Xdot*betadot)'*kron(inv(SG),eye(T))*(ydot-Xdot*betadot)); %The negative log likelihood
 
 %% Calculate the standard errors
 Ydot_new=W*B*(inv(GM)); %Y*GM=W*B+U -> Y=W*B*(GM^-1)+V

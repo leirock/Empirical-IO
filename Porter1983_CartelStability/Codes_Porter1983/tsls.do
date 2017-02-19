@@ -1,5 +1,5 @@
 clear
-cd /Users/apple/Dropbox/Documents/Resources/06_Industrial_Organization/04_CU_XiaoEmprical_IO/Assignment1/Codes
+cd /Users/apple/Dropbox/Documents/Resources/06_Industrial_Organization/04_CU_XiaoEmprical_IO/Assignment1/solution/Codes
 
 use Data/jecnew
 

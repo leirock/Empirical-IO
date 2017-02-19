@@ -51,7 +51,7 @@ nb1s=size(Z2,2); %Number of exogenous supply variables
 
 %% MLE to search the best coefficients
 n=1;
-N=100; %maximum number of iterations 
+N=100; %Maximum number of iterations 
 options=optimset('MaxFunEvals',1000);
 while n<N       
     [beta,L1,exitflag,output]= fminsearch('L1',beta,options); %minimize (-)maximum likelihood function
@@ -59,17 +59,16 @@ while n<N
 end
 L1=-L1;
 Z2(:,size(Z2,2))=pn; %po replaced with pn
-% tstat = beta./se; 
 
 %% Calculate R-square and std
 lnQhat=[Z1 lngr]*beta(1:nb1d+1);
-uhat1=lnQ-lnQhat;%Residuals in Demand
-shat1=sqrt((sum(uhat1.^2))/(T-size(Z1,2)));%Estimated standard errors demand coefficients
+uhat1=lnQ-lnQhat; %Residuals in Demand
+shat1=sqrt((sum(uhat1.^2))/(T-size(Z1,2))); %Estimated standard errors demand coefficients
 R2_1=((sum((lnQ-mean(lnQ)).*(lnQhat-mean(lnQhat))))^2)/(sum((lnQ-mean(lnQ)).^2)*sum((lnQhat-mean(lnQhat)).^2));
 
 lngrhat=[Z2 lnQ]*beta(nb1d+1+1:nb1d+1+nb1s+1);
-uhat2=lngr-lngrhat;%Residuals in Pricing Eq. 
-shat2=sqrt((sum(uhat2.^2))/(T-size(Z2,2)));%Estimated standard errors pricing eq. coefficients
+uhat2=lngr-lngrhat; %Residuals in Pricing Eq. 
+shat2=sqrt((sum(uhat2.^2))/(T-size(Z2,2))); %Estimated standard errors pricing eq. coefficients
 R2_2=((sum((lngr-mean(lngr)).*(lngrhat-mean(lngrhat))))^2)/(sum((lngr-mean(lngr)).^2)*sum((lngrhat-mean(lngrhat)).^2));
 
 %% Report estimation results
