@@ -36,3 +36,6 @@ gen DM3 = t>=182 & t<=323
 gen DM4 = t>=324 & t<=328
 
 save Data/jecnew,replace
+
+// Summary statistic
+sum gr Q L po
