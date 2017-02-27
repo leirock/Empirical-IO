@@ -115,11 +115,16 @@ disp(['std2  ',num2str(sqrt(shat2))])
 
 %% Likelihood ratio test
 L0=L0();
-chi=2*T*(L1-L0);
-LRT=['Likelihood ratio test: 2T(L1-L0) = ',num2str(chi);];
+chi=2*(L1-L0);
+LRT=['Likelihood ratio test: 2(L1-L0) = ',num2str(chi);];
 disp(LRT);
 if chi>3.84
     disp('The null hypothesis L1=L0 is rejected at 95% significant level.');
 else
     disp('The null hypothesis L1=L0 is not rejected at 95% significant level.');
+end
+if chi>7.879
+    disp('The null hypothesis L1=L0 is rejected at 99.5% significant level.');
+else
+    disp('The null hypothesis L1=L0 is not rejected at 99.5% significant level.');
 end
