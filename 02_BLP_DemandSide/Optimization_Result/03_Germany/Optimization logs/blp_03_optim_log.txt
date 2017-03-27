@@ -1,0 +1,504 @@
+
+========================================================================
+                       optimization routine : 3
+                     set of starting values : 1
+========================================================================
+theta2 starting values:
+   -2.586421   -0.616377    0.227579   -0.715240   -0.990075
+Iteration   :     1	Func. Evals :     9	Func. Value :      57.7116	Step size   :       1.6652	Grad norm   :      89.1637
+Iteration   :     2	Func. Evals :    12	Func. Value :      38.8966	Step size   :       1.1145	Grad norm   :      38.3423
+Iteration   :     3	Func. Evals :    15	Func. Value :      42.9952	Step size   :       0.5365	Grad norm   :      85.3137
+Iteration   :     4	Func. Evals :    18	Func. Value :      30.4656	Step size   :       0.7201	Grad norm   :      51.4790
+Iteration   :     5	Func. Evals :    22	Func. Value :      22.9242	Step size   :       1.8827	Grad norm   :      28.9069
+Iteration   :     6	Func. Evals :    25	Func. Value :      22.5017	Step size   :       1.0011	Grad norm   :       8.8490
+Iteration   :     7	Func. Evals :    27	Func. Value :      24.5434	Step size   :       0.5881	Grad norm   :      53.7016
+Iteration   :     8	Func. Evals :    32	Func. Value :      20.9553	Step size   :       0.8506	Grad norm   :      15.8612
+Iteration   :     9	Func. Evals :    35	Func. Value :      20.5913	Step size   :       1.1546	Grad norm   :      29.4342
+Iteration   :    10	Func. Evals :    40	Func. Value :      18.5117	Step size   :       1.8879	Grad norm   :      18.6522
+Iteration   :    11	Func. Evals :    45	Func. Value :      16.6720	Step size   :       3.7803	Grad norm   :      17.3829
+Iteration   :    12	Func. Evals :    50	Func. Value :      13.6012	Step size   :       5.2588	Grad norm   :      30.3018
+Iteration   :    13	Func. Evals :    52	Func. Value :      12.7851	Step size   :       3.6892	Grad norm   :       6.3122
+Iteration   :    14	Func. Evals :    55	Func. Value :      11.1813	Step size   :       4.6696	Grad norm   :      17.6008
+Iteration   :    15	Func. Evals :    57	Func. Value :      12.0002	Step size   :       2.7546	Grad norm   :      38.1984
+Iteration   :    16	Func. Evals :    61	Func. Value :      11.0514	Step size   :       2.1584	Grad norm   :      10.7702
+Iteration   :    17	Func. Evals :    64	Func. Value :      10.3956	Step size   :       1.6349	Grad norm   :      17.7115
+Iteration   :    18	Func. Evals :    67	Func. Value :      10.3548	Step size   :       0.9713	Grad norm   :      10.9350
+Iteration   :    19	Func. Evals :    69	Func. Value :      10.3442	Step size   :       0.5090	Grad norm   :       4.5300
+Iteration   :    20	Func. Evals :    71	Func. Value :      10.2992	Step size   :       1.2811	Grad norm   :       6.4436
+Iteration   :    21	Func. Evals :    75	Func. Value :      10.2154	Step size   :       0.8827	Grad norm   :       3.0321
+Iteration   :    22	Func. Evals :    77	Func. Value :      10.2186	Step size   :       0.4031	Grad norm   :       2.0904
+Iteration   :    23	Func. Evals :    78	Func. Value :      10.2772	Step size   :       0.2812	Grad norm   :       1.8064
+Iteration   :    24	Func. Evals :    82	Func. Value :      10.2441	Step size   :       0.1323	Grad norm   :       1.2983
+Iteration   :    25	Func. Evals :    83	Func. Value :      10.2627	Step size   :       0.0224	Grad norm   :       0.8153
+Iteration   :    26	Func. Evals :    84	Func. Value :      10.2700	Step size   :       0.0671	Grad norm   :       0.7075
+Iteration   :    27	Func. Evals :    89	Func. Value :      10.2145	Step size   :       0.1424	Grad norm   :       0.7985
+Iteration   :    28	Func. Evals :    90	Func. Value :      10.2164	Step size   :       0.0106	Grad norm   :       0.6663
+Iteration   :    29	Func. Evals :    91	Func. Value :      10.2259	Step size   :       0.0164	Grad norm   :       0.3889
+Iteration   :    30	Func. Evals :    92	Func. Value :      10.2435	Step size   :       0.0230	Grad norm   :       0.1705
+Iteration   :    31	Func. Evals :    93	Func. Value :      10.2507	Step size   :       0.0133	Grad norm   :       0.0527
+Iteration   :    32	Func. Evals :    95	Func. Value :      10.2404	Step size   :       0.0108	Grad norm   :       0.0913
+Iteration   :    33	Func. Evals :    98	Func. Value :      10.2361	Step size   :       0.0130	Grad norm   :       0.1267
+Iteration   :    34	Func. Evals :   103	Func. Value :      10.2360	Step size   :       0.0054	Grad norm   :       0.1530
+Iteration   :    35	Func. Evals :   104	Func. Value :      10.2360	Step size   :       0.0011	Grad norm   :       0.1460
+Iteration   :    36	Func. Evals :   113	Func. Value :      10.2359	Step size   :       0.0016	Grad norm   :       0.1449
+Iteration   :    37	Func. Evals :   114	Func. Value :      10.2360	Step size   :       0.0012	Grad norm   :       0.1361
+SolvOpt: Normal termination.
+
+Obj. function:	     10.2360
+
+theta1:	  -17.180636   -3.514003  -20.330142    2.352629    0.471191    0.112833
+
+theta2	   -6.604337    0.523815  -25.096602    0.058088    0.480657
+
+gradient-analytical
+            0.0046
+            0.0214
+            0.0007
+            0.0031
+            0.1343
+
+gradient-numerical I
+           -0.2506
+            0.0599
+           -0.0052
+            0.0120
+            0.6875
+
+gradient-numerical II
+            0.0046
+            0.0214
+            0.0007
+            0.0031
+            0.1344
+
+hessian eigenvalues-numerical I
+         -541.9888
+           -0.2981
+           42.9154
+          601.4397
+        38534.8383
+
+hessian eigenvalues-numerical II
+        -2884.1784
+           -4.5049
+            0.0338
+          110.5614
+        22872.1116
+
+========================================================================
+                       optimization routine : 3
+                     set of starting values : 2
+========================================================================
+theta2 starting values:
+   -1.834895   -2.664368   -0.842164    0.478726   -0.629552
+Iteration   :     1	Func. Evals :    10	Func. Value :     163.9574	Step size   :       2.0087	Grad norm   :     163.7159
+Iteration   :     2	Func. Evals :    12	Func. Value :     105.2410	Step size   :       2.7637	Grad norm   :      60.9366
+Iteration   :     3	Func. Evals :    13	Func. Value :     126.1226	Step size   :       2.2613	Grad norm   :     225.9229
+Iteration   :     4	Func. Evals :    15	Func. Value :      97.7319	Step size   :       2.0742	Grad norm   :      53.5327
+Iteration   :     5	Func. Evals :    17	Func. Value :     104.2719	Step size   :       2.7040	Grad norm   :      73.9938
+Iteration   :     6	Func. Evals :    23	Func. Value :      83.1982	Step size   :       1.8583	Grad norm   :      32.5722
+Iteration   :     7	Func. Evals :    26	Func. Value :      65.1853	Step size   :       1.4489	Grad norm   :      77.2705
+Iteration   :     8	Func. Evals :    29	Func. Value :      55.0953	Step size   :       3.1295	Grad norm   :     128.3368
+Iteration   :     9	Func. Evals :    31	Func. Value :      48.4127	Step size   :       0.4977	Grad norm   :      85.9538
+Iteration   :    10	Func. Evals :    35	Func. Value :      40.3367	Step size   :       2.6938	Grad norm   :      26.2924
+Iteration   :    11	Func. Evals :    41	Func. Value :      31.0595	Step size   :       2.0742	Grad norm   :      76.9986
+Iteration   :    12	Func. Evals :    43	Func. Value :      25.6187	Step size   :       2.1635	Grad norm   :      45.0477
+Iteration   :    13	Func. Evals :    46	Func. Value :      22.2994	Step size   :       3.9452	Grad norm   :      27.3118
+Iteration   :    14	Func. Evals :    49	Func. Value :      19.6094	Step size   :       9.2469	Grad norm   :      41.7535
+Iteration   :    15	Func. Evals :    54	Func. Value :      15.1573	Step size   :       9.7519	Grad norm   :      20.7646
+Iteration   :    16	Func. Evals :    57	Func. Value :      11.4572	Step size   :       0.9969	Grad norm   :      25.2096
+Iteration   :    17	Func. Evals :    59	Func. Value :      10.7719	Step size   :       2.0759	Grad norm   :      10.5928
+Iteration   :    18	Func. Evals :    61	Func. Value :      10.4156	Step size   :       2.8496	Grad norm   :      12.1450
+Iteration   :    19	Func. Evals :    63	Func. Value :      11.0137	Step size   :       1.7520	Grad norm   :      32.4955
+Iteration   :    20	Func. Evals :    67	Func. Value :      10.3552	Step size   :       2.5281	Grad norm   :       4.1755
+Iteration   :    21	Func. Evals :    69	Func. Value :      10.3595	Step size   :       3.1239	Grad norm   :       2.5273
+Iteration   :    22	Func. Evals :    72	Func. Value :      10.2250	Step size   :       0.8872	Grad norm   :       2.5280
+Iteration   :    23	Func. Evals :    74	Func. Value :      10.2142	Step size   :       1.0754	Grad norm   :       1.4478
+Iteration   :    24	Func. Evals :    75	Func. Value :      10.2904	Step size   :       0.1090	Grad norm   :       3.0099
+Iteration   :    25	Func. Evals :    77	Func. Value :      10.2714	Step size   :       0.3911	Grad norm   :       1.4611
+Iteration   :    26	Func. Evals :    78	Func. Value :      10.2781	Step size   :       0.0299	Grad norm   :       0.9962
+Iteration   :    27	Func. Evals :    82	Func. Value :      10.2634	Step size   :       0.2653	Grad norm   :       0.6975
+Iteration   :    28	Func. Evals :    89	Func. Value :      10.2457	Step size   :       0.1840	Grad norm   :       0.8106
+Iteration   :    29	Func. Evals :    92	Func. Value :      10.2122	Step size   :       0.1687	Grad norm   :       2.5718
+Iteration   :    30	Func. Evals :    93	Func. Value :      10.2428	Step size   :       0.0275	Grad norm   :       1.9306
+Iteration   :    31	Func. Evals :    94	Func. Value :      10.2663	Step size   :       0.0241	Grad norm   :       1.1491
+Iteration   :    32	Func. Evals :    96	Func. Value :      10.2520	Step size   :       0.0195	Grad norm   :       0.9806
+Iteration   :    33	Func. Evals :   104	Func. Value :      10.2354	Step size   :       0.1155	Grad norm   :       0.6821
+Iteration   :    34	Func. Evals :   110	Func. Value :      10.2194	Step size   :       0.1275	Grad norm   :       0.2686
+Iteration   :    35	Func. Evals :   111	Func. Value :      10.2436	Step size   :       0.0442	Grad norm   :       0.1720
+Iteration   :    36	Func. Evals :   112	Func. Value :      10.2517	Step size   :       0.0144	Grad norm   :       0.2507
+Iteration   :    37	Func. Evals :   118	Func. Value :      10.2194	Step size   :       0.0793	Grad norm   :       1.0804
+Iteration   :    38	Func. Evals :   119	Func. Value :      10.2365	Step size   :       0.0010	Grad norm   :       0.7249
+Iteration   :    39	Func. Evals :   120	Func. Value :      10.2504	Step size   :       0.0189	Grad norm   :       0.5322
+Iteration   :    40	Func. Evals :   125	Func. Value :      10.2363	Step size   :       0.0084	Grad norm   :       0.3850
+Iteration   :    41	Func. Evals :   127	Func. Value :      10.2361	Step size   :       0.0202	Grad norm   :       0.4560
+Iteration   :    42	Func. Evals :   134	Func. Value :      10.2158	Step size   :       0.1041	Grad norm   :       0.4244
+Iteration   :    43	Func. Evals :   135	Func. Value :      10.2286	Step size   :       0.0186	Grad norm   :       0.3459
+Iteration   :    44	Func. Evals :   136	Func. Value :      10.2474	Step size   :       0.0207	Grad norm   :       0.1071
+Iteration   :    45	Func. Evals :   137	Func. Value :      10.2542	Step size   :       0.0176	Grad norm   :       0.0423
+Iteration   :    46	Func. Evals :   139	Func. Value :      10.2380	Step size   :       0.0122	Grad norm   :       0.1423
+Iteration   :    47	Func. Evals :   144	Func. Value :      10.2359	Step size   :       0.0145	Grad norm   :       0.1592
+Iteration   :    48	Func. Evals :   145	Func. Value :      10.2360	Step size   :       0.0007	Grad norm   :       0.1526
+Iteration   :    49	Func. Evals :   150	Func. Value :      10.2364	Step size   :       0.0070	Grad norm   :       0.1738
+Iteration   :    50	Func. Evals :   155	Func. Value :      10.2360	Step size   :       0.0048	Grad norm   :       0.1356
+Iteration   :    51	Func. Evals :   157	Func. Value :      10.2359	Step size   :       0.0010	Grad norm   :       0.1302
+Iteration   :    52	Func. Evals :   158	Func. Value :      10.2359	Step size   :       0.0002	Grad norm   :       0.1275
+Iteration   :    53	Func. Evals :   159	Func. Value :      10.2360	Step size   :       0.0008	Grad norm   :       0.1232
+Iteration   :    54	Func. Evals :   160	Func. Value :      10.2360	Step size   :       0.0000	Grad norm   :       0.1218
+SolvOpt: Normal termination.
+
+Obj. function:	     10.2360
+
+theta1:	  -17.179034   -3.514220  -20.321712    2.352682    0.471204    0.112802
+
+theta2	   -6.603518    0.523575  -25.087951    0.057097    0.480601
+
+gradient-analytical
+           -0.0063
+            0.0212
+            0.0026
+           -0.0190
+            0.1183
+
+gradient-numerical I
+           -1.0248
+            0.3832
+           -0.0598
+            0.2454
+            3.2918
+
+gradient-numerical II
+           -0.0063
+            0.0212
+            0.0026
+           -0.0189
+            0.1182
+
+hessian eigenvalues-numerical I
+        -2265.4486
+            0.0369
+           12.2099
+          342.5558
+        18591.0147
+
+hessian eigenvalues-numerical II
+       -12798.9549
+         -154.5627
+           -0.6383
+            0.3978
+         4232.7409
+
+========================================================================
+                       optimization routine : 3
+                     set of starting values : 3
+========================================================================
+theta2 starting values:
+   -0.671239   -0.908876    0.387423   -0.209479    1.235660
+Iteration   :     1	Func. Evals :     8	Func. Value :      76.6179	Step size   :       1.3253	Grad norm   :      75.8734
+Iteration   :     2	Func. Evals :    11	Func. Value :      51.1572	Step size   :       1.0420	Grad norm   :      53.4208
+Iteration   :     3	Func. Evals :    15	Func. Value :      30.5765	Step size   :       1.4665	Grad norm   :      40.0708
+Iteration   :     4	Func. Evals :    18	Func. Value :      26.8253	Step size   :       2.0535	Grad norm   :      53.3261
+Iteration   :     5	Func. Evals :    20	Func. Value :      28.3740	Step size   :       1.0732	Grad norm   :      45.6982
+Iteration   :     6	Func. Evals :    22	Func. Value :      25.2195	Step size   :       0.4658	Grad norm   :      41.9515
+Iteration   :     7	Func. Evals :    25	Func. Value :      22.7821	Step size   :       0.6311	Grad norm   :      29.3770
+Iteration   :     8	Func. Evals :    30	Func. Value :      20.7773	Step size   :       1.2721	Grad norm   :       6.7756
+Iteration   :     9	Func. Evals :    34	Func. Value :      20.0979	Step size   :       1.7207	Grad norm   :      42.9400
+Iteration   :    10	Func. Evals :    40	Func. Value :      17.6829	Step size   :       3.2420	Grad norm   :      28.9750
+Iteration   :    11	Func. Evals :    43	Func. Value :      16.9974	Step size   :       2.5134	Grad norm   :      34.5459
+Iteration   :    12	Func. Evals :    48	Func. Value :      13.4588	Step size   :       6.0894	Grad norm   :      32.4256
+Iteration   :    13	Func. Evals :    50	Func. Value :      13.8717	Step size   :       3.7601	Grad norm   :      31.9119
+Iteration   :    14	Func. Evals :    54	Func. Value :      11.2464	Step size   :       4.6394	Grad norm   :      18.3074
+Iteration   :    15	Func. Evals :    56	Func. Value :      12.3527	Step size   :       2.4531	Grad norm   :       9.8740
+Iteration   :    16	Func. Evals :    59	Func. Value :      10.9404	Step size   :       2.3326	Grad norm   :      20.3325
+Iteration   :    17	Func. Evals :    62	Func. Value :      10.9046	Step size   :       0.5410	Grad norm   :      26.5899
+Iteration   :    18	Func. Evals :    66	Func. Value :      10.3401	Step size   :       4.2162	Grad norm   :       1.1218
+Iteration   :    19	Func. Evals :    68	Func. Value :      10.3473	Step size   :       3.2727	Grad norm   :       7.4697
+Iteration   :    20	Func. Evals :    71	Func. Value :      10.3606	Step size   :       0.4119	Grad norm   :       4.0651
+Iteration   :    21	Func. Evals :    74	Func. Value :      10.3099	Step size   :       0.2631	Grad norm   :       2.1654
+Iteration   :    22	Func. Evals :    77	Func. Value :      10.2418	Step size   :       0.3298	Grad norm   :       6.3697
+Iteration   :    23	Func. Evals :    78	Func. Value :      10.2965	Step size   :       0.0581	Grad norm   :       4.4079
+Iteration   :    24	Func. Evals :    80	Func. Value :      10.2782	Step size   :       0.4034	Grad norm   :       0.7489
+Iteration   :    25	Func. Evals :    81	Func. Value :      10.2828	Step size   :       0.0621	Grad norm   :       0.9515
+Iteration   :    26	Func. Evals :    87	Func. Value :      10.2232	Step size   :       0.6378	Grad norm   :       0.4472
+Iteration   :    27	Func. Evals :    88	Func. Value :      10.2582	Step size   :       0.1036	Grad norm   :       0.3269
+Iteration   :    28	Func. Evals :    89	Func. Value :      10.2649	Step size   :       0.0686	Grad norm   :       0.2511
+Iteration   :    29	Func. Evals :    90	Func. Value :      10.2657	Step size   :       0.0507	Grad norm   :       0.2501
+Iteration   :    30	Func. Evals :    92	Func. Value :      10.2401	Step size   :       0.0115	Grad norm   :       0.1986
+Iteration   :    31	Func. Evals :    95	Func. Value :      10.2371	Step size   :       0.0127	Grad norm   :       0.1534
+Iteration   :    32	Func. Evals :    97	Func. Value :      10.2391	Step size   :       0.0169	Grad norm   :       0.1611
+Iteration   :    33	Func. Evals :    99	Func. Value :      10.2393	Step size   :       0.0124	Grad norm   :       0.1438
+Iteration   :    34	Func. Evals :   106	Func. Value :      10.2368	Step size   :       0.0103	Grad norm   :       0.0984
+Iteration   :    35	Func. Evals :   111	Func. Value :      10.2365	Step size   :       0.0104	Grad norm   :       0.1342
+Iteration   :    36	Func. Evals :   117	Func. Value :      10.2401	Step size   :       0.0131	Grad norm   :       0.0665
+Iteration   :    37	Func. Evals :   118	Func. Value :      10.2426	Step size   :       0.0157	Grad norm   :       0.0765
+Iteration   :    38	Func. Evals :   120	Func. Value :      10.2389	Step size   :       0.0178	Grad norm   :       0.0614
+Iteration   :    39	Func. Evals :   127	Func. Value :      10.2359	Step size   :       0.0137	Grad norm   :       0.0853
+Iteration   :    40	Func. Evals :   128	Func. Value :      10.2431	Step size   :       0.0109	Grad norm   :       0.1038
+Iteration   :    41	Func. Evals :   129	Func. Value :      10.2499	Step size   :       0.0103	Grad norm   :       0.1568
+Iteration   :    42	Func. Evals :   131	Func. Value :      10.2415	Step size   :       0.0148	Grad norm   :       0.0408
+Iteration   :    43	Func. Evals :   135	Func. Value :      10.2362	Step size   :       0.0111	Grad norm   :       0.0197
+Iteration   :    44	Func. Evals :   144	Func. Value :      10.2359	Step size   :       0.0064	Grad norm   :       0.0789
+Iteration   :    45	Func. Evals :   146	Func. Value :      10.2358	Step size   :       0.0017	Grad norm   :       0.0677
+Iteration   :    46	Func. Evals :   147	Func. Value :      10.2360	Step size   :       0.0022	Grad norm   :       0.0222
+Iteration   :    47	Func. Evals :   152	Func. Value :      10.2360	Step size   :       0.0122	Grad norm   :       0.0428
+Iteration   :    48	Func. Evals :   155	Func. Value :      10.2359	Step size   :       0.0024	Grad norm   :       0.0378
+Iteration   :    49	Func. Evals :   156	Func. Value :      10.2359	Step size   :       0.0016	Grad norm   :       0.0297
+Iteration   :    50	Func. Evals :   165	Func. Value :      10.2359	Step size   :       0.0027	Grad norm   :       0.0518
+Iteration   :    51	Func. Evals :   166	Func. Value :      10.2360	Step size   :       0.0010	Grad norm   :       0.0540
+Iteration   :    52	Func. Evals :   169	Func. Value :      10.2360	Step size   :       0.0054	Grad norm   :       0.0128
+Iteration   :    53	Func. Evals :   172	Func. Value :      10.2359	Step size   :       0.0109	Grad norm   :       0.0079
+Iteration   :    54	Func. Evals :   173	Func. Value :      10.2360	Step size   :       0.0032	Grad norm   :       0.0052
+Iteration   :    55	Func. Evals :   176	Func. Value :      10.2360	Step size   :       0.0010	Grad norm   :       0.0162
+Iteration   :    56	Func. Evals :   179	Func. Value :      10.2359	Step size   :       0.0032	Grad norm   :       0.0094
+Iteration   :    57	Func. Evals :   180	Func. Value :      10.2359	Step size   :       0.0003	Grad norm   :       0.0025
+SolvOpt: Normal termination.
+
+Obj. function:	     10.2359
+
+theta1:	  -17.179066   -3.513517  -20.346359    2.352672    0.471184    0.112774
+
+theta2	   -6.604151    0.523378  -25.107518    0.056850    0.480571
+
+gradient-analytical
+           -0.0004
+           -0.0004
+           -0.0001
+            0.0002
+           -0.0025
+
+gradient-numerical I
+            0.7300
+            0.0532
+           -0.0493
+            0.0128
+            2.8616
+
+gradient-numerical II
+           -0.0004
+           -0.0004
+           -0.0001
+            0.0002
+           -0.0023
+
+hessian eigenvalues-numerical I
+         -959.2077
+            0.1402
+           16.9645
+          448.6549
+        32524.6203
+
+hessian eigenvalues-numerical II
+        -3978.0550
+           -9.1095
+            0.0519
+           14.2842
+        30152.2415
+
+========================================================================
+                       optimization routine : 3
+                     set of starting values : 4
+========================================================================
+theta2 starting values:
+   -0.339214    0.033414    1.076229    0.214286    0.096533
+Iteration   :     1	Func. Evals :     4	Func. Value :      76.5731	Step size   :       0.7715	Grad norm   :      88.7850
+Iteration   :     2	Func. Evals :    12	Func. Value :      50.4066	Step size   :       1.5790	Grad norm   :      27.3269
+Iteration   :     3	Func. Evals :    15	Func. Value :      46.2210	Step size   :       1.4335	Grad norm   :     158.1194
+Iteration   :     4	Func. Evals :    17	Func. Value :      30.1446	Step size   :       0.9622	Grad norm   :      73.4493
+Iteration   :     5	Func. Evals :    19	Func. Value :      24.8229	Step size   :       1.0959	Grad norm   :      13.5660
+Iteration   :     6	Func. Evals :    21	Func. Value :      24.4529	Step size   :       0.6039	Grad norm   :      45.3237
+Iteration   :     7	Func. Evals :    24	Func. Value :      22.3177	Step size   :       0.9705	Grad norm   :       6.8788
+Iteration   :     8	Func. Evals :    26	Func. Value :      21.4896	Step size   :       0.5939	Grad norm   :       6.9817
+Iteration   :     9	Func. Evals :    31	Func. Value :      20.3739	Step size   :       1.8067	Grad norm   :       7.6733
+Iteration   :    10	Func. Evals :    38	Func. Value :      18.1593	Step size   :       2.9971	Grad norm   :      24.4506
+Iteration   :    11	Func. Evals :    45	Func. Value :      15.4463	Step size   :       5.6084	Grad norm   :      31.5610
+Iteration   :    12	Func. Evals :    49	Func. Value :      13.5962	Step size   :       6.3319	Grad norm   :      28.7731
+Iteration   :    13	Func. Evals :    51	Func. Value :      13.4940	Step size   :       4.0124	Grad norm   :      35.0662
+Iteration   :    14	Func. Evals :    53	Func. Value :      11.5754	Step size   :       2.4253	Grad norm   :      20.2891
+Iteration   :    15	Func. Evals :    56	Func. Value :      11.2357	Step size   :       0.8626	Grad norm   :       9.3312
+Iteration   :    16	Func. Evals :    59	Func. Value :      10.3857	Step size   :       1.4231	Grad norm   :       3.2984
+Iteration   :    17	Func. Evals :    60	Func. Value :      10.4159	Step size   :       0.7982	Grad norm   :       3.7554
+Iteration   :    18	Func. Evals :    63	Func. Value :      10.3205	Step size   :       0.1318	Grad norm   :       9.0231
+Iteration   :    19	Func. Evals :    66	Func. Value :      10.2423	Step size   :       0.0631	Grad norm   :       2.4637
+Iteration   :    20	Func. Evals :    68	Func. Value :      10.2676	Step size   :       1.1342	Grad norm   :       3.7921
+Iteration   :    21	Func. Evals :    73	Func. Value :      10.2252	Step size   :       0.9391	Grad norm   :       0.5480
+Iteration   :    22	Func. Evals :    74	Func. Value :      10.2807	Step size   :       0.4668	Grad norm   :       1.0765
+Iteration   :    23	Func. Evals :    77	Func. Value :      10.2178	Step size   :       0.6591	Grad norm   :       2.2968
+Iteration   :    24	Func. Evals :    79	Func. Value :      10.2136	Step size   :       0.1246	Grad norm   :       0.7601
+Iteration   :    25	Func. Evals :    80	Func. Value :      10.2659	Step size   :       0.1391	Grad norm   :       0.2315
+Iteration   :    26	Func. Evals :    81	Func. Value :      10.2667	Step size   :       0.0471	Grad norm   :       0.0867
+Iteration   :    27	Func. Evals :    85	Func. Value :      10.2538	Step size   :       0.0677	Grad norm   :       0.2698
+Iteration   :    28	Func. Evals :    88	Func. Value :      10.2365	Step size   :       0.0184	Grad norm   :       0.2634
+Iteration   :    29	Func. Evals :    92	Func. Value :      10.2361	Step size   :       0.0335	Grad norm   :       0.3779
+Iteration   :    30	Func. Evals :    93	Func. Value :      10.2403	Step size   :       0.0032	Grad norm   :       0.3925
+Iteration   :    31	Func. Evals :    96	Func. Value :      10.2360	Step size   :       0.0090	Grad norm   :       0.0988
+Iteration   :    32	Func. Evals :   100	Func. Value :      10.2358	Step size   :       0.0269	Grad norm   :       0.0119
+Iteration   :    33	Func. Evals :   108	Func. Value :      10.2161	Step size   :       0.0956	Grad norm   :       0.1181
+Iteration   :    34	Func. Evals :   109	Func. Value :      10.2361	Step size   :       0.0093	Grad norm   :       0.1709
+Iteration   :    35	Func. Evals :   110	Func. Value :      10.2427	Step size   :       0.0117	Grad norm   :       0.1968
+Iteration   :    36	Func. Evals :   112	Func. Value :      10.2416	Step size   :       0.0192	Grad norm   :       0.1673
+Iteration   :    37	Func. Evals :   117	Func. Value :      10.2360	Step size   :       0.0087	Grad norm   :       0.0770
+Iteration   :    38	Func. Evals :   118	Func. Value :      10.2360	Step size   :       0.0034	Grad norm   :       0.0419
+Iteration   :    39	Func. Evals :   121	Func. Value :      10.2372	Step size   :       0.0160	Grad norm   :       0.0456
+Iteration   :    40	Func. Evals :   123	Func. Value :      10.2360	Step size   :       0.0032	Grad norm   :       0.0484
+Iteration   :    41	Func. Evals :   128	Func. Value :      10.2373	Step size   :       0.0071	Grad norm   :       0.0251
+Iteration   :    42	Func. Evals :   132	Func. Value :      10.2360	Step size   :       0.0058	Grad norm   :       0.0166
+Iteration   :    43	Func. Evals :   133	Func. Value :      10.2360	Step size   :       0.0023	Grad norm   :       0.0208
+SolvOpt: Normal termination.
+
+Obj. function:	     10.2360
+
+theta1:	  -17.170243   -3.515072  -20.333349    2.352612    0.471089    0.112701
+
+theta2	   -6.600341    0.523458  -25.086849    0.056957    0.480356
+
+gradient-analytical
+            0.0106
+            0.0095
+           -0.0003
+            0.0041
+            0.0145
+
+gradient-numerical I
+            1.2280
+            0.0292
+           -0.0035
+            0.0080
+            0.3495
+
+gradient-numerical II
+            0.0106
+            0.0095
+           -0.0003
+            0.0041
+            0.0147
+
+hessian eigenvalues-numerical I
+         -177.9165
+            0.4148
+          298.8252
+          945.2379
+        78742.4909
+
+hessian eigenvalues-numerical II
+        -5573.3849
+           -4.0532
+            0.0419
+           88.6769
+        41971.5358
+
+========================================================================
+                       optimization routine : 3
+                     set of starting values : 5
+========================================================================
+theta2 starting values:
+   -0.620338   -0.757491   -0.259335    2.368628    0.258542
+Iteration   :     1	Func. Evals :     5	Func. Value :     118.4582	Step size   :       0.9721	Grad norm   :      95.5073
+Iteration   :     2	Func. Evals :     9	Func. Value :      66.8914	Step size   :       1.4612	Grad norm   :      41.6505
+Iteration   :     3	Func. Evals :    13	Func. Value :      53.5371	Step size   :       2.0087	Grad norm   :      87.8725
+Iteration   :     4	Func. Evals :    17	Func. Value :      38.7653	Step size   :       1.3141	Grad norm   :      89.6168
+Iteration   :     5	Func. Evals :    19	Func. Value :      32.6939	Step size   :       1.2309	Grad norm   :     104.1042
+Iteration   :     6	Func. Evals :    22	Func. Value :      32.8860	Step size   :       1.8649	Grad norm   :      66.6503
+Iteration   :     7	Func. Evals :    26	Func. Value :      28.4483	Step size   :       1.8464	Grad norm   :      50.1944
+Iteration   :     8	Func. Evals :    30	Func. Value :      24.6680	Step size   :       0.8463	Grad norm   :      16.9415
+Iteration   :     9	Func. Evals :    32	Func. Value :      25.0222	Step size   :       1.4013	Grad norm   :      32.3546
+Iteration   :    10	Func. Evals :    35	Func. Value :      21.6593	Step size   :       1.1161	Grad norm   :      27.0158
+Iteration   :    11	Func. Evals :    38	Func. Value :      20.0135	Step size   :       1.6839	Grad norm   :      22.8976
+Iteration   :    12	Func. Evals :    45	Func. Value :      16.1106	Step size   :       4.4311	Grad norm   :      14.4748
+Iteration   :    13	Func. Evals :    52	Func. Value :      12.1881	Step size   :       9.4877	Grad norm   :      19.3045
+Iteration   :    14	Func. Evals :    54	Func. Value :      12.8565	Step size   :       4.4793	Grad norm   :      61.2754
+Iteration   :    15	Func. Evals :    57	Func. Value :      12.6469	Step size   :       3.7777	Grad norm   :      19.3800
+Iteration   :    16	Func. Evals :    59	Func. Value :      13.4833	Step size   :       0.6282	Grad norm   :      72.7433
+Iteration   :    17	Func. Evals :    63	Func. Value :      11.8247	Step size   :       2.6791	Grad norm   :      17.5901
+Iteration   :    18	Func. Evals :    66	Func. Value :      11.3392	Step size   :       1.5768	Grad norm   :      39.4779
+Iteration   :    19	Func. Evals :    71	Func. Value :      10.6430	Step size   :       1.0176	Grad norm   :      12.7633
+Iteration   :    20	Func. Evals :    73	Func. Value :      10.7830	Step size   :       0.3299	Grad norm   :      20.6245
+Iteration   :    21	Func. Evals :    76	Func. Value :      10.4875	Step size   :       2.4836	Grad norm   :      15.7669
+Iteration   :    22	Func. Evals :    78	Func. Value :      10.3847	Step size   :       3.3513	Grad norm   :       4.8129
+Iteration   :    23	Func. Evals :    80	Func. Value :      10.5486	Step size   :       4.3721	Grad norm   :      11.0645
+Iteration   :    24	Func. Evals :    85	Func. Value :      10.3545	Step size   :       3.6513	Grad norm   :       5.5349
+Iteration   :    25	Func. Evals :    87	Func. Value :      10.3677	Step size   :       0.3617	Grad norm   :       1.6971
+Iteration   :    26	Func. Evals :    91	Func. Value :      10.2035	Step size   :       0.9415	Grad norm   :       2.1289
+Iteration   :    27	Func. Evals :    93	Func. Value :      10.2297	Step size   :       0.4772	Grad norm   :       4.2478
+Iteration   :    28	Func. Evals :    94	Func. Value :      10.3014	Step size   :       0.1087	Grad norm   :       4.5693
+Iteration   :    29	Func. Evals :    98	Func. Value :      10.2763	Step size   :       0.1840	Grad norm   :       1.6893
+Iteration   :    30	Func. Evals :   101	Func. Value :      10.2704	Step size   :       0.7928	Grad norm   :       0.8628
+Iteration   :    31	Func. Evals :   102	Func. Value :      10.2731	Step size   :       0.0367	Grad norm   :       0.6936
+Iteration   :    32	Func. Evals :   106	Func. Value :      10.2319	Step size   :       0.4698	Grad norm   :       1.6961
+Iteration   :    33	Func. Evals :   107	Func. Value :      10.2339	Step size   :       0.0233	Grad norm   :       1.7550
+Iteration   :    34	Func. Evals :   108	Func. Value :      10.2400	Step size   :       0.0060	Grad norm   :       1.2732
+Iteration   :    35	Func. Evals :   109	Func. Value :      10.2459	Step size   :       0.0158	Grad norm   :       1.2512
+Iteration   :    36	Func. Evals :   112	Func. Value :      10.2394	Step size   :       0.0113	Grad norm   :       1.0202
+Iteration   :    37	Func. Evals :   121	Func. Value :      10.2383	Step size   :       0.0174	Grad norm   :       0.9313
+Iteration   :    38	Func. Evals :   124	Func. Value :      10.2400	Step size   :       0.0139	Grad norm   :       1.0091
+Iteration   :    39	Func. Evals :   125	Func. Value :      10.2451	Step size   :       0.0185	Grad norm   :       1.0612
+Iteration   :    40	Func. Evals :   126	Func. Value :      10.2493	Step size   :       0.0114	Grad norm   :       1.0730
+Iteration   :    41	Func. Evals :   133	Func. Value :      10.2370	Step size   :       0.0141	Grad norm   :       0.5266
+Iteration   :    42	Func. Evals :   134	Func. Value :      10.2432	Step size   :       0.0156	Grad norm   :       0.5594
+Iteration   :    43	Func. Evals :   135	Func. Value :      10.2504	Step size   :       0.0152	Grad norm   :       0.6081
+Iteration   :    44	Func. Evals :   136	Func. Value :      10.2555	Step size   :       0.0120	Grad norm   :       0.6197
+Iteration   :    45	Func. Evals :   141	Func. Value :      10.2382	Step size   :       0.0102	Grad norm   :       0.4052
+Iteration   :    46	Func. Evals :   156	Func. Value :      10.2362	Step size   :       0.0163	Grad norm   :       0.0709
+Iteration   :    47	Func. Evals :   157	Func. Value :      10.2363	Step size   :       0.0041	Grad norm   :       0.0850
+Iteration   :    48	Func. Evals :   158	Func. Value :      10.2486	Step size   :       0.0236	Grad norm   :       0.0898
+Iteration   :    49	Func. Evals :   159	Func. Value :      10.2577	Step size   :       0.0507	Grad norm   :       0.1092
+Iteration   :    50	Func. Evals :   162	Func. Value :      10.2361	Step size   :       0.0256	Grad norm   :       0.5628
+Iteration   :    51	Func. Evals :   167	Func. Value :      10.2147	Step size   :       0.0722	Grad norm   :       0.5834
+Iteration   :    52	Func. Evals :   168	Func. Value :      10.2361	Step size   :       0.0050	Grad norm   :       0.3519
+Iteration   :    53	Func. Evals :   169	Func. Value :      10.2361	Step size   :       0.0054	Grad norm   :       0.3177
+Iteration   :    54	Func. Evals :   170	Func. Value :      10.2382	Step size   :       0.0054	Grad norm   :       0.3002
+Iteration   :    55	Func. Evals :   175	Func. Value :      10.2374	Step size   :       0.0113	Grad norm   :       0.2286
+Iteration   :    56	Func. Evals :   184	Func. Value :      10.2369	Step size   :       0.0116	Grad norm   :       0.2499
+Iteration   :    57	Func. Evals :   192	Func. Value :      10.2360	Step size   :       0.0025	Grad norm   :       0.0585
+Iteration   :    58	Func. Evals :   193	Func. Value :      10.2378	Step size   :       0.0097	Grad norm   :       0.0329
+Iteration   :    59	Func. Evals :   194	Func. Value :      10.2416	Step size   :       0.0102	Grad norm   :       0.0380
+Iteration   :    60	Func. Evals :   196	Func. Value :      10.2411	Step size   :       0.0191	Grad norm   :       0.0247
+Iteration   :    61	Func. Evals :   202	Func. Value :      10.2359	Step size   :       0.0146	Grad norm   :       0.1568
+Iteration   :    62	Func. Evals :   203	Func. Value :      10.2359	Step size   :       0.0005	Grad norm   :       0.1476
+Iteration   :    63	Func. Evals :   207	Func. Value :      10.2358	Step size   :       0.0138	Grad norm   :       0.0524
+Iteration   :    64	Func. Evals :   208	Func. Value :      10.2360	Step size   :       0.0024	Grad norm   :       0.0550
+Iteration   :    65	Func. Evals :   209	Func. Value :      10.2360	Step size   :       0.0011	Grad norm   :       0.0476
+Iteration   :    66	Func. Evals :   213	Func. Value :      10.2359	Step size   :       0.0004	Grad norm   :       0.0468
+SolvOpt: Normal termination.
+
+Obj. function:	     10.2359
+
+theta1:	  -17.178461   -3.513825  -20.328162    2.352646    0.471157    0.112780
+
+theta2	   -6.603461    0.522739  -25.092310    0.057321    0.480616
+
+gradient-analytical
+           -0.0039
+           -0.0181
+            0.0012
+           -0.0015
+            0.0430
+
+gradient-numerical I
+            0.5317
+            0.0559
+            0.2603
+            0.0178
+          -13.1146
+
+gradient-numerical II
+           -0.0039
+           -0.0181
+            0.0012
+           -0.0015
+            0.0429
+
+hessian eigenvalues-numerical I
+        -6671.4574
+          -36.9852
+            0.3460
+          297.7446
+         8261.4318
+
+hessian eigenvalues-numerical II
+       -26770.6021
+           -2.9823
+            0.1169
+            3.4598
+         3743.0214
+
+Saving optimization results...
