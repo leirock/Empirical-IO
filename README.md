@@ -1,3 +1,4 @@
 # PaperReplication
 
-1.  Porter, R.H. 1983. A Study of Cartel Stability: The Joint Executive Committee, 1880-1886\. _Bell Journal of Economics_, 14:301-314.
+1.  Porter, R.H. 1983. [A Study of Cartel Stability: The Joint Executive Committee](https://github.com/dongleizhang/PaperReplication/tree/master/01_Porter1983_CartelStability), 1880-1886. _Bell Journal of Economics_, 14:301-314.
+2.  [Random Coefficient Logit Model](https://github.com/dongleizhang/PaperReplication/tree/master/02_BLP_DemandSide): BLP (1995), Nevo (2000), Knittel and Metaxoglou (2014).
