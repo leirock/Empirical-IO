@@ -1,0 +1,332 @@
+
+========================================================================
+                       optimization routine : 6
+                     set of starting values : 1
+========================================================================
+theta2 starting values:
+   -2.586421   -0.616377    0.227579   -0.715240   -0.990075
+iteration  :    1	bestfun    :         Inf	inarow     :    0	100*psi    : 100.000	gafuneval  :  100
+iteration  :    2	bestfun    :10000000000.0000	inarow     :    1	100*psi    : 100.000	gafuneval  :  200
+iteration  :    3	bestfun    :10000000000.0000	inarow     :    2	100*psi    :  99.000	gafuneval  :  299
+iteration  :    4	bestfun    :10000000000.0000	inarow     :    3	100*psi    : 100.000	gafuneval  :  399
+iteration  :    5	bestfun    :10000000000.0000	inarow     :    4	100*psi    : 100.000	gafuneval  :  499
+iteration  :    6	bestfun    :10000000000.0000	inarow     :    0	100*psi    :  98.000	gafuneval  :  500
+GAMIN: Number of Function evaluations exceeded.
+
+Obj. function:	10000000000.0000
+
+theta1:	   -0.340219   -8.399700   -4.572660    3.308872    0.122924  -11.150849
+
+theta2	-6952.114648-6634.591021-8293.832896-4698.628511-6491.235996
+
+gradient-analytical
+               NaN
+               NaN
+               NaN
+               NaN
+               NaN
+
+gradient-numerical I
+           -0.0000
+           -0.0000
+           -0.0000
+           -0.0000
+           -0.0000
+
+gradient-numerical II
+  10000000000.0000
+  10000000000.0000
+  10000000000.0000
+  10000000000.0000
+  10000000000.0000
+
+hessian eigenvalues-numerical I
+            0.0000
+            0.0000
+            0.0000
+            0.0000
+            0.0000
+
+hessian eigenvalues-numerical II
+           -0.0000
+           -0.0000
+           -0.0000
+           -0.0000
+           -0.0000
+
+========================================================================
+                       optimization routine : 6
+                     set of starting values : 2
+========================================================================
+theta2 starting values:
+   -1.834895   -2.664368   -0.842164    0.478726   -0.629552
+iteration  :    1	bestfun    :         Inf	inarow     :    0	100*psi    : 100.000	gafuneval  :  100
+iteration  :    2	bestfun    :10000000000.0000	inarow     :    1	100*psi    : 100.000	gafuneval  :  200
+iteration  :    3	bestfun    :10000000000.0000	inarow     :    2	100*psi    :  99.000	gafuneval  :  299
+iteration  :    4	bestfun    :10000000000.0000	inarow     :    3	100*psi    : 100.000	gafuneval  :  399
+iteration  :    5	bestfun    :10000000000.0000	inarow     :    4	100*psi    : 100.000	gafuneval  :  499
+iteration  :    6	bestfun    :10000000000.0000	inarow     :    0	100*psi    :  98.000	gafuneval  :  500
+GAMIN: Number of Function evaluations exceeded.
+
+Obj. function:	10000000000.0000
+
+theta1:	   -0.340219   -8.399700   -4.572660    3.308872    0.122924  -11.150849
+
+theta2	-6952.114648-6634.591021-8293.832896-4698.628511-6491.235996
+
+gradient-analytical
+               NaN
+               NaN
+               NaN
+               NaN
+               NaN
+
+gradient-numerical I
+           -0.0000
+           -0.0000
+           -0.0000
+           -0.0000
+           -0.0000
+
+gradient-numerical II
+  10000000000.0000
+  10000000000.0000
+  10000000000.0000
+  10000000000.0000
+  10000000000.0000
+
+hessian eigenvalues-numerical I
+            0.0000
+            0.0000
+            0.0000
+            0.0000
+            0.0000
+
+hessian eigenvalues-numerical II
+           -0.0000
+           -0.0000
+           -0.0000
+           -0.0000
+           -0.0000
+
+========================================================================
+                       optimization routine : 6
+                     set of starting values : 3
+========================================================================
+theta2 starting values:
+   -0.671239   -0.908876    0.387423   -0.209479    1.235660
+iteration  :    1	bestfun    :         Inf	inarow     :    0	100*psi    : 100.000	gafuneval  :  100
+iteration  :    2	bestfun    :10000000000.0000	inarow     :    1	100*psi    : 100.000	gafuneval  :  200
+iteration  :    3	bestfun    :10000000000.0000	inarow     :    2	100*psi    :  99.000	gafuneval  :  299
+iteration  :    4	bestfun    :10000000000.0000	inarow     :    3	100*psi    : 100.000	gafuneval  :  399
+iteration  :    5	bestfun    :10000000000.0000	inarow     :    4	100*psi    : 100.000	gafuneval  :  499
+iteration  :    6	bestfun    :10000000000.0000	inarow     :    0	100*psi    :  98.000	gafuneval  :  500
+GAMIN: Number of Function evaluations exceeded.
+
+Obj. function:	10000000000.0000
+
+theta1:	   -0.340219   -8.399700   -4.572660    3.308872    0.122924  -11.150849
+
+theta2	-6952.114648-6634.591021-8293.832896-4698.628511-6491.235996
+
+gradient-analytical
+               NaN
+               NaN
+               NaN
+               NaN
+               NaN
+
+gradient-numerical I
+           -0.0000
+           -0.0000
+           -0.0000
+           -0.0000
+           -0.0000
+
+gradient-numerical II
+  10000000000.0000
+  10000000000.0000
+  10000000000.0000
+  10000000000.0000
+  10000000000.0000
+
+hessian eigenvalues-numerical I
+            0.0000
+            0.0000
+            0.0000
+            0.0000
+            0.0000
+
+hessian eigenvalues-numerical II
+           -0.0000
+           -0.0000
+           -0.0000
+           -0.0000
+           -0.0000
+
+========================================================================
+                       optimization routine : 6
+                     set of starting values : 4
+========================================================================
+theta2 starting values:
+   -0.339214    0.033414    1.076229    0.214286    0.096533
+iteration  :    1	bestfun    :         Inf	inarow     :    0	100*psi    : 100.000	gafuneval  :  100
+iteration  :    2	bestfun    :10000000000.0000	inarow     :    1	100*psi    : 100.000	gafuneval  :  200
+iteration  :    3	bestfun    :10000000000.0000	inarow     :    2	100*psi    :  99.000	gafuneval  :  299
+iteration  :    4	bestfun    :10000000000.0000	inarow     :    3	100*psi    : 100.000	gafuneval  :  399
+iteration  :    5	bestfun    :10000000000.0000	inarow     :    4	100*psi    : 100.000	gafuneval  :  499
+iteration  :    6	bestfun    :10000000000.0000	inarow     :    0	100*psi    :  98.000	gafuneval  :  500
+GAMIN: Number of Function evaluations exceeded.
+
+Obj. function:	10000000000.0000
+
+theta1:	   -0.340219   -8.399700   -4.572660    3.308872    0.122924  -11.150849
+
+theta2	-6952.114648-6634.591021-8293.832896-4698.628511-6491.235996
+
+gradient-analytical
+               NaN
+               NaN
+               NaN
+               NaN
+               NaN
+
+gradient-numerical I
+           -0.0000
+           -0.0000
+           -0.0000
+           -0.0000
+           -0.0000
+
+gradient-numerical II
+  10000000000.0000
+  10000000000.0000
+  10000000000.0000
+  10000000000.0000
+  10000000000.0000
+
+hessian eigenvalues-numerical I
+            0.0000
+            0.0000
+            0.0000
+            0.0000
+            0.0000
+
+hessian eigenvalues-numerical II
+           -0.0000
+           -0.0000
+           -0.0000
+           -0.0000
+           -0.0000
+
+========================================================================
+                       optimization routine : 6
+                     set of starting values : 5
+========================================================================
+theta2 starting values:
+   -0.620338   -0.757491   -0.259335    2.368628    0.258542
+iteration  :    1	bestfun    :         Inf	inarow     :    0	100*psi    : 100.000	gafuneval  :  100
+iteration  :    2	bestfun    :10000000000.0000	inarow     :    1	100*psi    : 100.000	gafuneval  :  200
+iteration  :    3	bestfun    :10000000000.0000	inarow     :    2	100*psi    :  99.000	gafuneval  :  299
+iteration  :    4	bestfun    :10000000000.0000	inarow     :    3	100*psi    : 100.000	gafuneval  :  399
+iteration  :    5	bestfun    :10000000000.0000	inarow     :    4	100*psi    : 100.000	gafuneval  :  499
+iteration  :    6	bestfun    :10000000000.0000	inarow     :    0	100*psi    :  98.000	gafuneval  :  500
+GAMIN: Number of Function evaluations exceeded.
+
+Obj. function:	10000000000.0000
+
+theta1:	   -0.340219   -8.399700   -4.572660    3.308872    0.122924  -11.150849
+
+theta2	-6952.114648-6634.591021-8293.832896-4698.628511-6491.235996
+
+gradient-analytical
+               NaN
+               NaN
+               NaN
+               NaN
+               NaN
+
+gradient-numerical I
+           -0.0000
+           -0.0000
+           -0.0000
+           -0.0000
+           -0.0000
+
+gradient-numerical II
+  10000000000.0000
+  10000000000.0000
+  10000000000.0000
+  10000000000.0000
+  10000000000.0000
+
+hessian eigenvalues-numerical I
+            0.0000
+            0.0000
+            0.0000
+            0.0000
+            0.0000
+
+hessian eigenvalues-numerical II
+           -0.0000
+           -0.0000
+           -0.0000
+           -0.0000
+           -0.0000
+
+========================================================================
+                       optimization routine : 6
+                     set of starting values : 6
+========================================================================
+theta2 starting values:
+   -0.344311   -1.053188    0.803083    0.423302   -0.264148
+iteration  :    1	bestfun    :         Inf	inarow     :    0	100*psi    : 100.000	gafuneval  :  100
+iteration  :    2	bestfun    :10000000000.0000	inarow     :    1	100*psi    : 100.000	gafuneval  :  200
+iteration  :    3	bestfun    :10000000000.0000	inarow     :    2	100*psi    :  99.000	gafuneval  :  299
+iteration  :    4	bestfun    :10000000000.0000	inarow     :    3	100*psi    : 100.000	gafuneval  :  399
+iteration  :    5	bestfun    :10000000000.0000	inarow     :    4	100*psi    : 100.000	gafuneval  :  499
+iteration  :    6	bestfun    :10000000000.0000	inarow     :    0	100*psi    :  98.000	gafuneval  :  500
+GAMIN: Number of Function evaluations exceeded.
+
+Obj. function:	10000000000.0000
+
+theta1:	   -0.340219   -8.399700   -4.572660    3.308872    0.122924  -11.150849
+
+theta2	-6952.114648-6634.591021-8293.832896-4698.628511-6491.235996
+
+gradient-analytical
+               NaN
+               NaN
+               NaN
+               NaN
+               NaN
+
+gradient-numerical I
+           -0.0000
+           -0.0000
+           -0.0000
+           -0.0000
+           -0.0000
+
+gradient-numerical II
+  10000000000.0000
+  10000000000.0000
+  10000000000.0000
+  10000000000.0000
+  10000000000.0000
+
+hessian eigenvalues-numerical I
+            0.0000
+            0.0000
+            0.0000
+            0.0000
+            0.0000
+
+hessian eigenvalues-numerical II
+           -0.0000
+           -0.0000
+           -0.0000
+           -0.0000
+           -0.0000
+
+Saving optimization results...

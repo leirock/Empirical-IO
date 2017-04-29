@@ -1,0 +1,1523 @@
+
+========================================================================
+                       optimization routine : 8
+                     set of starting values : 1
+========================================================================
+theta2 starting values:
+   -2.586421   -0.616377    0.227579   -0.715240   -0.990075
+
+
+Iter     f-count          f(x)      MeshSize     Method
+    0        1        302.195             1      
+    1        6        266.748             1     Successful Search
+    2       21        266.748          0.25     Refine Mesh
+    3       35        266.071             1     Successful Poll
+    4       41        261.483             1     Successful Search
+    5       57        261.483          0.25     Refine Mesh
+    6       60        254.917          0.25     Successful Search
+    7       73        254.917        0.0625     Refine Mesh
+    8       87        252.529          0.25     Successful Poll
+    9      103        252.529        0.0625     Refine Mesh
+   10      118        252.529       0.01563     Refine Mesh
+   11      131        250.929        0.0625     Successful Poll
+   12      137        250.761        0.0625     Successful Search
+   13      149        248.494          0.25     Successful Poll
+   14      164        248.494        0.0625     Refine Mesh
+   15      170        243.931        0.0625     Successful Search
+   16      180        239.884          0.25     Successful Poll
+   17      195        239.884        0.0625     Refine Mesh
+   18      201        239.839        0.0625     Successful Search
+   19      216        239.839       0.01563     Refine Mesh
+   20      231        237.843        0.0625     Successful Poll
+   21      247        237.843       0.01563     Refine Mesh
+   22      262        237.654        0.0625     Successful Poll
+   23      278        236.871          0.25     Successful Poll
+   24      294         233.46             1     Successful Poll
+   25      309         233.46          0.25     Refine Mesh
+   26      325        228.114             1     Successful Poll
+   27      339        228.114          0.25     Refine Mesh
+   28      355        228.114        0.0625     Refine Mesh
+   29      371        228.114       0.01563     Refine Mesh
+   30      386        228.114      0.003906     Refine Mesh
+
+Iter     f-count        f(x)       MeshSize      Method
+   31      402        228.114     0.0009766     Refine Mesh
+   32      417        228.114     0.0002441     Refine Mesh
+   33      433        228.114     6.104e-05     Refine Mesh
+   34      449        228.114     1.526e-05     Refine Mesh
+   35      465        228.114     3.815e-06     Refine Mesh
+   36      481        228.114     9.537e-07     Refine Mesh
+   37      497        228.114     2.384e-07     Refine Mesh
+   38      500        228.114      5.96e-08     Refine Mesh
+Maximum number of function evaluations exceeded: increase options.MaxFunEvals.
+
+Obj. function:	    228.1137
+
+theta1:	  -17.005087   -1.065579  -10.480441   -5.784221    5.633606   -3.361388
+
+theta2	   -7.336421   -1.397627    0.450235    0.909760   -1.052575
+
+gradient-analytical
+           -6.8969
+            3.1050
+           -3.4247
+           -0.0033
+           32.9499
+
+gradient-numerical I
+            0.3997
+           13.3315
+           -3.2203
+            0.5818
+           32.3404
+
+gradient-numerical II
+           -6.9106
+            3.1609
+           -3.4254
+           -0.0072
+           32.9579
+
+hessian eigenvalues-numerical I
+        -9997.8654
+            0.5806
+           65.9780
+         1094.3355
+        27738.1301
+
+hessian eigenvalues-numerical II
+      -406721.6985
+         -882.2155
+           25.9644
+         3048.1733
+       148975.1853
+
+========================================================================
+                       optimization routine : 8
+                     set of starting values : 2
+========================================================================
+theta2 starting values:
+   -1.834895   -2.664368   -0.842164    0.478726   -0.629552
+
+
+Iter     f-count          f(x)      MeshSize     Method
+    0        1        1277.39             1      
+    1        6        285.789             1     Successful Search
+    2       12        267.274             1     Successful Search
+    3       16        243.637             1     Successful Search
+    4       30        243.637          0.25     Refine Mesh
+    5       34        241.979          0.25     Successful Search
+    6       48        236.079             1     Successful Poll
+    7       54        230.358             1     Successful Search
+    8       69        226.763             1     Successful Poll
+    9       75         221.14             1     Successful Search
+   10       90         221.14          0.25     Refine Mesh
+   11       95        215.337          0.25     Successful Search
+   12      109        215.223             1     Successful Poll
+   13      124         212.91             1     Successful Poll
+   14      136         212.91          0.25     Refine Mesh
+   15      141        205.714          0.25     Successful Search
+   16      146         203.29          0.25     Successful Search
+   17      161         203.29        0.0625     Refine Mesh
+   18      167        202.947        0.0625     Successful Search
+   19      173        197.028        0.0625     Successful Search
+   20      178        195.816        0.0625     Successful Search
+   21      184        194.266        0.0625     Successful Search
+   22      199        192.144          0.25     Successful Poll
+   23      214        192.144        0.0625     Refine Mesh
+   24      228        189.097          0.25     Successful Poll
+   25      244        189.097        0.0625     Refine Mesh
+   26      260        189.097       0.01563     Refine Mesh
+   27      265        188.211       0.01563     Successful Search
+   28      280        187.252        0.0625     Successful Poll
+   29      286        185.953        0.0625     Successful Search
+   30      292        183.837        0.0625     Successful Search
+
+Iter     f-count        f(x)       MeshSize      Method
+   31      307        182.056          0.25     Successful Poll
+   32      322        179.302             1     Successful Poll
+   33      337        179.302          0.25     Refine Mesh
+   34      351        179.302        0.0625     Refine Mesh
+   35      357        177.856        0.0625     Successful Search
+   36      372        175.859          0.25     Successful Poll
+   37      378        172.749          0.25     Successful Search
+   38      394        169.357             1     Successful Poll
+   39      408        164.569             1     Successful Poll
+   40      423         160.52             1     Successful Poll
+   41      437         160.52          0.25     Refine Mesh
+   42      452         160.52        0.0625     Refine Mesh
+   43      458        160.367        0.0625     Successful Search
+   44      464        158.749        0.0625     Successful Search
+   45      480        157.192          0.25     Successful Poll
+   46      496        157.192        0.0625     Refine Mesh
+   47      500        157.192       0.01563     Refine Mesh
+Maximum number of function evaluations exceeded: increase options.MaxFunEvals.
+
+Obj. function:	    157.1916
+
+theta1:	   -4.061357   -3.919594  -13.009643   -5.609135    2.923117   -2.757171
+
+theta2	    2.196355    2.335632  -11.342164    0.228726   -2.090490
+
+gradient-analytical
+          -15.3139
+           64.0205
+            3.5658
+          -18.8346
+           83.3427
+
+gradient-numerical I
+     -1003502.0205
+           21.2568
+            4.9683
+           -1.0002
+           39.5210
+
+gradient-numerical II
+            3.2812
+           21.2951
+            4.9680
+           -1.0082
+           39.5435
+
+hessian eigenvalues-numerical I
+    -10518722.8700
+       -80903.4250
+        -6263.5847
+          143.7340
+       165232.0945
+
+hessian eigenvalues-numerical II
+      -236958.9570
+          -45.0352
+            3.4590
+           92.0986
+       470803.5892
+
+========================================================================
+                       optimization routine : 8
+                     set of starting values : 3
+========================================================================
+theta2 starting values:
+   -0.671239   -0.908876    0.387423   -0.209479    1.235660
+
+
+Iter     f-count          f(x)      MeshSize     Method
+    0        1        500.112             1      
+    1        7        335.546             1     Successful Search
+    2       13        301.378             1     Successful Search
+    3       18        292.249             1     Successful Search
+    4       26        286.157             1     Successful Poll
+    5       31        267.954             1     Successful Search
+    6       37        242.112             1     Successful Search
+    7       43        221.534             1     Successful Search
+    8       49        210.009             1     Successful Search
+    9       55        206.213             1     Successful Search
+   10       60        198.432             1     Successful Search
+   11       65        194.676             1     Successful Search
+   12       76        194.676          0.25     Refine Mesh
+   13       92        194.676        0.0625     Refine Mesh
+   14       98        191.435        0.0625     Successful Search
+   15      114        191.435       0.01563     Refine Mesh
+   16      129        191.435      0.003906     Refine Mesh
+   17      145        191.435     0.0009766     Refine Mesh
+   18      161        191.435     0.0002441     Refine Mesh
+   19      177        191.435     6.104e-05     Refine Mesh
+   20      193        191.435     1.526e-05     Refine Mesh
+   21      208        191.435     3.815e-06     Refine Mesh
+   22      224        191.435     9.537e-07     Refine Mesh
+   23      240        191.435     2.384e-07     Refine Mesh
+   24      256        191.435      5.96e-08     Refine Mesh
+   25      272        191.435      1.49e-08     Refine Mesh
+   26      288        191.435     3.725e-09     Refine Mesh
+   27      304        191.435     9.313e-10     Refine Mesh
+   28      320        191.435     2.328e-10     Refine Mesh
+   29      336        191.435     5.821e-11     Refine Mesh
+   30      352        191.435     1.455e-11     Refine Mesh
+
+Iter     f-count        f(x)       MeshSize      Method
+   31      368        191.435     3.638e-12     Refine Mesh
+   32      384        191.435     9.095e-13     Refine Mesh
+Optimization terminated: mesh size less than 'sqrt(TolMesh)'.
+
+Obj. function:	    191.4350
+
+theta1:	   -2.439644   -4.815299   -4.365436   -6.467760    1.275797   -2.724190
+
+theta2	   -0.108739    2.716124    1.012423   -1.568854   -3.576840
+
+gradient-analytical
+           16.5041
+          -43.2824
+            4.7071
+           38.7912
+          -30.9245
+
+gradient-numerical I
+            4.7103
+            4.3124
+            3.1526
+           25.8640
+          -28.5281
+
+gradient-numerical II
+           16.5040
+          -43.2823
+            4.7070
+           38.7910
+          -30.9244
+
+hessian eigenvalues-numerical I
+         -204.8502
+         -161.0770
+           -0.8983
+          187.2803
+          342.0938
+
+hessian eigenvalues-numerical II
+        -4463.7102
+           -8.3148
+          138.1807
+          214.4148
+         3311.2685
+
+========================================================================
+                       optimization routine : 8
+                     set of starting values : 4
+========================================================================
+theta2 starting values:
+   -0.339214    0.033414    1.076229    0.214286    0.096533
+
+
+Iter     f-count          f(x)      MeshSize     Method
+    0        1        292.509             1      
+    1        3        288.841             1     Successful Search
+    2        9        285.927             1     Successful Search
+    3       15        267.958             1     Successful Search
+    4       18        266.342             1     Successful Search
+    5       24        264.471             1     Successful Search
+    6       30        264.214             1     Successful Search
+    7       42        263.269             1     Successful Poll
+    8       47        262.989             1     Successful Search
+    9       52        262.075             1     Successful Search
+   10       58         261.03             1     Successful Search
+   11       64        260.696             1     Successful Search
+   12       69        260.679             1     Successful Search
+   13       74        259.216             1     Successful Search
+   14       80        256.176             1     Successful Search
+   15       83          255.2             1     Successful Search
+   16       89        254.034             1     Successful Search
+   17       95         253.74             1     Successful Search
+   18       98        251.699             1     Successful Search
+   19      104        250.664             1     Successful Search
+   20      110        249.826             1     Successful Search
+   21      116        249.163             1     Successful Search
+   22      122        248.584             1     Successful Search
+   23      128        246.742             1     Successful Search
+   24      134        245.428             1     Successful Search
+   25      140        245.024             1     Successful Search
+   26      146        244.289             1     Successful Search
+   27      152        244.067             1     Successful Search
+   28      163        242.191             1     Successful Poll
+   29      169         241.74             1     Successful Search
+   30      175        240.352             1     Successful Search
+
+Iter     f-count        f(x)       MeshSize      Method
+   31      186        238.389             1     Successful Poll
+   32      197        236.921             1     Successful Poll
+   33      203        236.075             1     Successful Search
+   34      208        235.453             1     Successful Search
+   35      216        235.307             1     Successful Poll
+   36      228        234.207             1     Successful Poll
+   37      234        233.161             1     Successful Poll
+   38      237        232.129             1     Successful Search
+   39      247         230.93             1     Successful Poll
+   40      253        229.052             1     Successful Search
+   41      258        227.038             1     Successful Search
+   42      267        225.932             1     Successful Poll
+   43      277         225.41             1     Successful Poll
+   44      283        224.495             1     Successful Search
+   45      289        221.981             1     Successful Search
+   46      295        221.049             1     Successful Search
+   47      300        220.275             1     Successful Search
+   48      306        217.751             1     Successful Search
+   49      309        217.344             1     Successful Search
+   50      315        216.372             1     Successful Search
+   51      328        215.751             1     Successful Poll
+   52      334        213.402             1     Successful Search
+   53      340        212.333             1     Successful Search
+   54      346        210.607             1     Successful Search
+   55      352        210.567             1     Successful Search
+   56      366        209.497             1     Successful Poll
+   57      380        209.151             1     Successful Poll
+   58      393        209.151          0.25     Refine Mesh
+   59      409        208.793             1     Successful Poll
+   60      425        207.831             1     Successful Poll
+
+Iter     f-count        f(x)       MeshSize      Method
+   61      439        207.831          0.25     Refine Mesh
+   62      454        207.759             1     Successful Poll
+   63      470        207.365             1     Successful Poll
+   64      485        207.038             1     Successful Poll
+   65      490        206.703             1     Successful Search
+   66      500        206.703          0.25     Refine Mesh
+Maximum number of function evaluations exceeded: increase options.MaxFunEvals.
+
+Obj. function:	    206.7025
+
+theta1:	  -12.582853   -0.487559  -13.963873   -6.750389    4.878562   -5.725544
+
+theta2	   -6.214214   -0.919711   19.076229    1.964286   -0.528467
+
+gradient-analytical
+            2.6795
+           20.1765
+            0.3931
+           -2.1931
+           28.5641
+
+gradient-numerical I
+        95295.1266
+           32.1528
+           -0.0607
+            1.3959
+            9.2591
+
+gradient-numerical II
+            0.1876
+           32.1471
+           -0.0604
+            1.3957
+            9.2595
+
+hessian eigenvalues-numerical I
+      -257067.3771
+       -38357.2981
+        -6732.8522
+         -309.9832
+        88453.1540
+
+hessian eigenvalues-numerical II
+      -120308.3233
+          -11.6242
+            0.2034
+           91.5449
+       156646.1724
+
+========================================================================
+                       optimization routine : 8
+                     set of starting values : 5
+========================================================================
+theta2 starting values:
+   -0.620338   -0.757491   -0.259335    2.368628    0.258542
+
+
+Iter     f-count          f(x)      MeshSize     Method
+    0        1        274.229             1      
+    1       17        273.042             1     Successful Poll
+    2       31         260.78             1     Successful Poll
+    3       43         260.78          0.25     Refine Mesh
+    4       58        260.324             1     Successful Poll
+    5       72        260.324          0.25     Refine Mesh
+    6       78        257.886          0.25     Successful Search
+    7       92        256.531             1     Successful Poll
+    8      105        256.531          0.25     Refine Mesh
+    9      121        256.531        0.0625     Refine Mesh
+   10      127        252.707        0.0625     Successful Search
+   11      142        252.707       0.01563     Refine Mesh
+   12      157        252.707      0.003906     Refine Mesh
+   13      173        252.707     0.0009766     Refine Mesh
+   14      189        252.707     0.0002441     Refine Mesh
+   15      204        252.707     6.104e-05     Refine Mesh
+   16      220        252.707     1.526e-05     Refine Mesh
+   17      236        252.707     3.815e-06     Refine Mesh
+   18      252        252.707     9.537e-07     Refine Mesh
+   19      268        252.707     2.384e-07     Refine Mesh
+   20      284        252.707      5.96e-08     Refine Mesh
+   21      299        252.707      1.49e-08     Refine Mesh
+   22      315        252.707     3.725e-09     Refine Mesh
+   23      331        252.707     9.313e-10     Refine Mesh
+   24      347        252.707     2.328e-10     Refine Mesh
+   25      363        252.707     5.821e-11     Refine Mesh
+   26      379        252.707     1.455e-11     Refine Mesh
+   27      394        252.707     3.638e-12     Refine Mesh
+   28      410        252.707     9.095e-13     Refine Mesh
+Optimization terminated: mesh size less than 'sqrt(TolMesh)'.
+
+Obj. function:	    252.7070
+
+theta1:	   -2.357165   -0.423692   -0.500750  -13.939798    3.478503   -4.300060
+
+theta2	   -0.995338   -0.757491    0.021915    4.743628    1.133542
+
+gradient-analytical
+          -14.2884
+           -3.3482
+           -0.8733
+           -4.0915
+           -1.3048
+
+gradient-numerical I
+           13.5414
+           71.4452
+           -0.5865
+          -31.3752
+           -4.4050
+
+gradient-numerical II
+          -14.2881
+           -3.3483
+           -0.8733
+           -4.0914
+           -1.3048
+
+hessian eigenvalues-numerical I
+      -157091.6288
+       -13097.6085
+          188.2892
+        12764.2560
+       159353.1319
+
+hessian eigenvalues-numerical II
+        -8240.9671
+          -83.6356
+          166.3928
+          225.9387
+         3004.4052
+
+========================================================================
+                       optimization routine : 8
+                     set of starting values : 6
+========================================================================
+theta2 starting values:
+   -0.344311   -1.053188    0.803083    0.423302   -0.264148
+
+
+Iter     f-count          f(x)      MeshSize     Method
+    0        1        341.133             1      
+    1        7        282.692             1     Successful Search
+    2       10        268.729             1     Successful Search
+    3       16        263.204             1     Successful Search
+    4       31        259.774             1     Successful Poll
+    5       37        258.144             1     Successful Search
+    6       45        250.819             1     Successful Poll
+    7       51        250.441             1     Successful Search
+    8       56        250.091             1     Successful Search
+    9       71        250.091          0.25     Refine Mesh
+   10       85        249.107             1     Successful Poll
+   11       91        244.744             1     Successful Search
+   12      100        242.239             1     Successful Poll
+   13      105        236.495             1     Successful Search
+   14      119        234.588             1     Successful Poll
+   15      125        231.404             1     Successful Search
+   16      131        229.314             1     Successful Search
+   17      137        225.224             1     Successful Search
+   18      152        223.735             1     Successful Poll
+   19      157        220.061             1     Successful Search
+   20      172        218.938             1     Successful Poll
+   21      185        216.569             1     Successful Poll
+   22      190        215.126             1     Successful Search
+   23      196        204.946             1     Successful Search
+   24      202        204.608             1     Successful Search
+   25      215        202.785             1     Successful Poll
+   26      229        198.702             1     Successful Poll
+   27      234        192.886             1     Successful Search
+   28      240        189.541             1     Successful Search
+   29      245        186.444             1     Successful Search
+   30      259        186.444          0.25     Refine Mesh
+
+Iter     f-count        f(x)       MeshSize      Method
+   31      275        186.444        0.0625     Refine Mesh
+   32      290        186.444       0.01563     Refine Mesh
+   33      306        186.444      0.003906     Refine Mesh
+   34      322        186.444     0.0009766     Refine Mesh
+   35      338        186.444     0.0002441     Refine Mesh
+   36      354        186.444     6.104e-05     Refine Mesh
+   37      370        186.444     1.526e-05     Refine Mesh
+   38      385        186.444     3.815e-06     Refine Mesh
+   39      401        186.444     9.537e-07     Refine Mesh
+   40      417        186.444     2.384e-07     Refine Mesh
+   41      432        186.444      5.96e-08     Refine Mesh
+   42      448        186.444      1.49e-08     Refine Mesh
+   43      464        186.444     3.725e-09     Refine Mesh
+   44      479        186.444     9.313e-10     Refine Mesh
+   45      495        186.444     2.328e-10     Refine Mesh
+   46      500        186.444     5.821e-11     Refine Mesh
+Maximum number of function evaluations exceeded: increase options.MaxFunEvals.
+
+Obj. function:	    186.4437
+
+theta1:	   -2.819278   -4.847421   -3.082191   -6.641375    2.348027   -2.669413
+
+theta2	    0.280689    2.696812   -2.696917   -1.701698   -2.764148
+
+gradient-analytical
+           21.1911
+            1.9780
+            2.5999
+          -46.1130
+           37.0380
+
+gradient-numerical I
+           14.0781
+          104.6673
+            1.4593
+          -14.2549
+           20.4278
+
+gradient-numerical II
+           21.1911
+            1.9780
+            2.5999
+          -46.1131
+           37.0380
+
+hessian eigenvalues-numerical I
+       -84683.1907
+          -59.6709
+           -2.4565
+           97.9709
+        68611.4352
+
+hessian eigenvalues-numerical II
+        -4989.7891
+         -169.5309
+           23.3846
+          368.8569
+         2126.5532
+
+========================================================================
+                       optimization routine : 8
+                     set of starting values : 7
+========================================================================
+theta2 starting values:
+   -0.444716   -0.935862   -1.001192   -0.750684    0.929006
+
+
+Iter     f-count          f(x)      MeshSize     Method
+    0        1        423.279             1      
+    1        7        310.017             1     Successful Search
+    2       13        282.289             1     Successful Search
+    3       19        256.805             1     Successful Search
+    4       34        253.672             1     Successful Poll
+    5       48        253.672          0.25     Refine Mesh
+    6       60        247.977             1     Successful Poll
+    7       75        236.784             1     Successful Poll
+    8       86        236.784          0.25     Refine Mesh
+    9      101        234.478             1     Successful Poll
+   10      106        234.249             1     Successful Search
+   11      121         229.95             1     Successful Poll
+   12      134         229.95          0.25     Refine Mesh
+   13      139        227.479          0.25     Successful Search
+   14      145        225.589          0.25     Successful Search
+   15      159        219.465             1     Successful Poll
+   16      175        219.465          0.25     Refine Mesh
+   17      181        216.917          0.25     Successful Search
+   18      187        215.222          0.25     Successful Search
+   19      202        212.914             1     Successful Poll
+   20      208        207.126             1     Successful Search
+   21      223        204.238             1     Successful Poll
+   22      228         201.88             1     Successful Search
+   23      243         201.88          0.25     Refine Mesh
+   24      249        201.011          0.25     Successful Search
+   25      262        184.452             1     Successful Poll
+   26      268        181.686             1     Successful Search
+   27      271        125.599             1     Successful Search
+   28      286        125.599          0.25     Refine Mesh
+   29      302        125.599        0.0625     Refine Mesh
+   30      317        125.599       0.01563     Refine Mesh
+
+Iter     f-count        f(x)       MeshSize      Method
+   31      333        125.599      0.003906     Refine Mesh
+   32      348        125.599     0.0009766     Refine Mesh
+   33      364        125.599     0.0002441     Refine Mesh
+   34      380        125.599     6.104e-05     Refine Mesh
+   35      396        125.599     1.526e-05     Refine Mesh
+   36      412        125.599     3.815e-06     Refine Mesh
+   37      427        125.599     9.537e-07     Refine Mesh
+   38      443        125.599     2.384e-07     Refine Mesh
+   39      459        125.599      5.96e-08     Refine Mesh
+   40      475        125.599      1.49e-08     Refine Mesh
+   41      491        125.599     3.725e-09     Refine Mesh
+   42      500        125.599     9.313e-10     Refine Mesh
+Maximum number of function evaluations exceeded: increase options.MaxFunEvals.
+
+Obj. function:	    125.5987
+
+theta1:	   -2.871519   -6.371770   -1.889146   -6.702110    0.288831   -2.599242
+
+theta2	    0.305284    3.564138   -9.251192   -2.250684   -4.820994
+
+gradient-analytical
+           32.0070
+          -23.1106
+            4.4619
+           -2.7255
+           -3.8726
+
+gradient-numerical I
+           14.5233
+           28.2726
+            1.9824
+           -1.3330
+           -4.5850
+
+gradient-numerical II
+           32.0006
+          -23.1137
+            4.4613
+           -2.7157
+           -3.8756
+
+hessian eigenvalues-numerical I
+       -36874.8048
+         -181.6756
+            1.9330
+           74.4072
+        27327.5867
+
+hessian eigenvalues-numerical II
+      -165993.9153
+       -12534.4304
+           -5.4744
+        36961.1564
+        51412.3110
+
+========================================================================
+                       optimization routine : 8
+                     set of starting values : 8
+========================================================================
+theta2 starting values:
+   -0.092884    0.007941   -0.073243    0.434021    1.455675
+
+
+Iter     f-count          f(x)      MeshSize     Method
+    0        1        347.676             1      
+    1        6        336.972             1     Successful Search
+    2       11        329.495             1     Successful Search
+    3       16        323.376             1     Successful Search
+    4       32        312.472             1     Successful Poll
+    5       37        305.189             1     Successful Search
+    6       42        301.599             1     Successful Search
+    7       48         301.38             1     Successful Search
+    8       63        299.256             1     Successful Poll
+    9       75        297.432             1     Successful Poll
+   10       81        295.402             1     Successful Search
+   11       87        295.106             1     Successful Search
+   12       92        293.142             1     Successful Search
+   13       96        293.028             1     Successful Search
+   14      102        291.747             1     Successful Search
+   15      106        291.683             1     Successful Search
+   16      112        290.474             1     Successful Search
+   17      125        290.474          0.25     Refine Mesh
+   18      131        290.424          0.25     Successful Search
+   19      137        290.241          0.25     Successful Search
+   20      143        290.237          0.25     Successful Search
+   21      155        290.237        0.0625     Refine Mesh
+   22      167        289.029          0.25     Successful Poll
+   23      173        288.922          0.25     Successful Search
+   24      187        288.706             1     Successful Poll
+   25      193        288.548             1     Successful Search
+   26      199        288.526             1     Successful Search
+   27      210        287.912             1     Successful Poll
+   28      216        285.925             1     Successful Search
+   29      222        285.777             1     Successful Search
+   30      226        284.166             1     Successful Search
+
+Iter     f-count        f(x)       MeshSize      Method
+   31      232        281.372             1     Successful Search
+   32      237        277.613             1     Successful Search
+   33      243        277.564             1     Successful Search
+   34      248        267.411             1     Successful Search
+   35      253        257.271             1     Successful Search
+   36      258        252.333             1     Successful Search
+   37      264        252.104             1     Successful Search
+   38      280        249.844             1     Successful Poll
+   39      285        248.618             1     Successful Search
+   40      299        248.523             1     Successful Poll
+   41      311        246.508             1     Successful Poll
+   42      317         235.34             1     Successful Search
+   43      323        227.055             1     Successful Search
+   44      329        227.001             1     Successful Search
+   45      342         219.94             1     Successful Poll
+   46      348         213.84             1     Successful Search
+   47      351        209.504             1     Successful Search
+   48      366        206.924             1     Successful Poll
+   49      382        206.462             1     Successful Poll
+   50      387        205.003             1     Successful Search
+   51      402        204.995             1     Successful Poll
+   52      414        204.824             1     Successful Poll
+   53      425        204.824          0.25     Refine Mesh
+   54      431        204.714          0.25     Successful Search
+   55      445        204.714        0.0625     Refine Mesh
+   56      460        204.714       0.01563     Refine Mesh
+   57      475        204.481        0.0625     Successful Poll
+   58      480        203.909        0.0625     Successful Search
+   59      496        203.601          0.25     Successful Poll
+   60      499        202.937          0.25     Successful Search
+
+Iter     f-count        f(x)       MeshSize      Method
+   61      500        202.937        0.0625     Refine Mesh
+Maximum number of function evaluations exceeded: increase options.MaxFunEvals.
+
+Obj. function:	    202.9369
+
+theta1:	   -2.861831    0.145420  -12.531638   -8.337461    0.381110   -5.205062
+
+theta2	    2.375866    0.026984    0.468750   -2.628479   -2.794325
+
+gradient-analytical
+          -68.9730
+          135.0668
+           -9.9039
+           37.3838
+          -67.7264
+
+gradient-numerical I
+       -73115.1563
+            3.5000
+           -1.3803
+           -0.1731
+            7.7418
+
+gradient-numerical II
+           -3.9089
+            3.4660
+           -1.3815
+           -0.1475
+            7.7522
+
+hessian eigenvalues-numerical I
+          -43.2975
+           -8.9406
+            0.4502
+           68.8423
+          136.5642
+
+hessian eigenvalues-numerical II
+       -58764.6984
+          -20.9950
+           29.2201
+           38.2714
+        62778.5452
+
+========================================================================
+                       optimization routine : 8
+                     set of starting values : 9
+========================================================================
+theta2 starting values:
+    0.007923   -0.534162   -0.427681   -0.235631   -0.180519
+
+
+Iter     f-count          f(x)      MeshSize     Method
+    0        1        268.328             1      
+    1       16        268.247             1     Successful Poll
+    2       30        267.983             1     Successful Poll
+    3       44        267.983          0.25     Refine Mesh
+    4       50        267.935          0.25     Successful Search
+    5       66        267.828             1     Successful Poll
+    6       81        267.653             1     Successful Poll
+    7       95        267.653          0.25     Refine Mesh
+    8      111         267.46             1     Successful Poll
+    9      126         267.46          0.25     Refine Mesh
+   10      141         267.46        0.0625     Refine Mesh
+   11      147        267.432        0.0625     Successful Search
+   12      163        267.405          0.25     Successful Poll
+   13      179        267.366             1     Successful Poll
+   14      185        267.213             1     Successful Search
+   15      191        267.072             1     Successful Search
+   16      199        266.943             1     Successful Poll
+   17      214        266.855             1     Successful Poll
+   18      220        266.762             1     Successful Search
+   19      233        266.762          0.25     Refine Mesh
+   20      248        266.762        0.0625     Refine Mesh
+   21      254        266.755        0.0625     Successful Search
+   22      260        266.713        0.0625     Successful Search
+   23      266        266.689        0.0625     Successful Search
+   24      282        266.689       0.01563     Refine Mesh
+   25      288        266.682       0.01563     Successful Search
+   26      294        266.669       0.01563     Successful Search
+   27      300         266.66       0.01563     Successful Search
+   28      314        266.649        0.0625     Successful Poll
+   29      330        266.619          0.25     Successful Poll
+   30      336        266.588          0.25     Successful Search
+
+Iter     f-count        f(x)       MeshSize      Method
+   31      342        266.539          0.25     Successful Search
+   32      357        266.539        0.0625     Refine Mesh
+   33      363        266.486        0.0625     Successful Search
+   34      377        266.223          0.25     Successful Poll
+   35      383        266.221          0.25     Successful Search
+   36      389        266.109          0.25     Successful Search
+   37      393        266.044          0.25     Successful Search
+   38      399        265.993          0.25     Successful Search
+   39      414        265.993        0.0625     Refine Mesh
+   40      420         265.97        0.0625     Successful Search
+   41      435        265.849          0.25     Successful Poll
+   42      450        265.849        0.0625     Refine Mesh
+   43      465        265.819          0.25     Successful Poll
+   44      481        265.819        0.0625     Refine Mesh
+   45      486        265.771        0.0625     Successful Search
+   46      492        265.726        0.0625     Successful Search
+   47      498        265.674        0.0625     Successful Search
+   48      500        265.674       0.01563     Refine Mesh
+Maximum number of function evaluations exceeded: increase options.MaxFunEvals.
+
+Obj. function:	    265.6742
+
+theta1:	   -0.763713   -0.461983  -11.213688   -7.735165    3.336569   -4.433755
+
+theta2	    0.074452   -0.565412    4.189506   -0.321569   -0.254737
+
+gradient-analytical
+          -12.7649
+            4.2964
+           -0.2832
+            0.2900
+           -1.8526
+
+gradient-numerical I
+          -12.7118
+            4.2841
+           -0.2831
+            0.3089
+           -1.8857
+
+gradient-numerical II
+          -12.7118
+            4.2842
+           -0.2831
+            0.3089
+           -1.8857
+
+hessian eigenvalues-numerical I
+            9.5170
+           30.6224
+           44.3162
+          427.1841
+         3027.9990
+
+hessian eigenvalues-numerical II
+         -348.9993
+            1.5945
+           12.1534
+          126.9789
+          476.8677
+
+========================================================================
+                       optimization routine : 8
+                     set of starting values :10
+========================================================================
+theta2 starting values:
+    0.249817    0.182900    0.420518   -1.443890    0.622431
+
+
+Iter     f-count          f(x)      MeshSize     Method
+    0        1        309.379             1      
+    1        4        291.761             1     Successful Search
+    2        9        280.536             1     Successful Search
+    3       15        262.361             1     Successful Search
+    4       19        261.558             1     Successful Search
+    5       24        256.437             1     Successful Search
+    6       29        244.413             1     Successful Search
+    7       42        242.979             1     Successful Poll
+    8       55        241.584             1     Successful Poll
+    9       61        241.234             1     Successful Search
+   10       73        239.205             1     Successful Poll
+   11       86        239.205          0.25     Refine Mesh
+   12      102        234.082             1     Successful Poll
+   13      118         232.88             1     Successful Poll
+   14      132        230.921             1     Successful Poll
+   15      146        229.011             1     Successful Poll
+   16      158        227.223             1     Successful Poll
+   17      170        225.456             1     Successful Poll
+   18      181        225.456          0.25     Refine Mesh
+   19      196        225.456        0.0625     Refine Mesh
+   20      200        224.981        0.0625     Successful Search
+   21      205        223.524        0.0625     Successful Search
+   22      211        223.222        0.0625     Successful Search
+   23      217        220.541        0.0625     Successful Search
+   24      233        220.138          0.25     Successful Poll
+   25      239        218.046          0.25     Successful Search
+   26      245        216.571          0.25     Successful Search
+   27      261        215.374             1     Successful Poll
+   28      276        215.374          0.25     Refine Mesh
+   29      281        212.887          0.25     Successful Search
+   30      284        212.084          0.25     Successful Search
+
+Iter     f-count        f(x)       MeshSize      Method
+   31      290        211.308          0.25     Successful Search
+   32      296        210.216          0.25     Successful Search
+   33      302        209.845          0.25     Successful Search
+   34      306        208.508          0.25     Successful Search
+   35      320        208.298             1     Successful Poll
+   36      326        205.087             1     Successful Search
+   37      332        202.748             1     Successful Search
+   38      344        202.403             1     Successful Poll
+   39      356        202.403          0.25     Refine Mesh
+   40      368        200.713             1     Successful Poll
+   41      383        200.713          0.25     Refine Mesh
+   42      398        200.508             1     Successful Poll
+   43      404        196.655             1     Successful Search
+   44      417        193.698             1     Successful Poll
+   45      430        193.698          0.25     Refine Mesh
+   46      436        192.883          0.25     Successful Search
+   47      450        191.509             1     Successful Poll
+   48      465        191.509          0.25     Refine Mesh
+   49      480        190.297             1     Successful Poll
+   50      493        187.622             1     Successful Poll
+   51      497        184.594             1     Successful Search
+   52      500        184.594          0.25     Refine Mesh
+Maximum number of function evaluations exceeded: increase options.MaxFunEvals.
+
+Obj. function:	    184.5939
+
+theta1:	   -2.737916   -2.929128   -9.914831   -6.063828    2.841743   -3.500224
+
+theta2	    1.546692    1.792275   -7.454482   -0.193890   -1.752569
+
+gradient-analytical
+           36.5838
+          -18.1066
+           13.1657
+           42.5587
+          -27.7126
+
+gradient-numerical I
+        34829.2394
+           12.7859
+            5.1810
+           -5.9640
+           18.5697
+
+gradient-numerical II
+           -7.7401
+           12.7851
+            5.1810
+           -5.9640
+           18.5696
+
+hessian eigenvalues-numerical I
+           16.4122
+           77.9758
+          208.2019
+          423.2581
+       355037.4716
+
+hessian eigenvalues-numerical II
+       -66656.5844
+          -66.5026
+           -0.8931
+          161.2060
+        54865.0403
+
+========================================================================
+                       optimization routine : 8
+                     set of starting values :11
+========================================================================
+theta2 starting values:
+    0.475971   -1.059323    0.684360   -0.763337    0.916042
+
+
+Iter     f-count          f(x)      MeshSize     Method
+    0        1        366.231             1      
+    1        7        310.271             1     Successful Search
+    2       13          278.9             1     Successful Search
+    3       19        261.884             1     Successful Search
+    4       25         242.29             1     Successful Search
+    5       39         242.29          0.25     Refine Mesh
+    6       45        236.878          0.25     Successful Search
+    7       51        230.432          0.25     Successful Search
+    8       57        228.815          0.25     Successful Search
+    9       63        224.994          0.25     Successful Search
+   10       69        222.201          0.25     Successful Search
+   11       75        215.808          0.25     Successful Search
+   12       81        215.062          0.25     Successful Search
+   13       96        212.926             1     Successful Poll
+   14      101        212.771             1     Successful Search
+   15      115        211.925             1     Successful Poll
+   16      127        211.925          0.25     Refine Mesh
+   17      140        206.599             1     Successful Poll
+   18      155        206.599          0.25     Refine Mesh
+   19      170        205.988             1     Successful Poll
+   20      185        204.616             1     Successful Poll
+   21      198        203.357             1     Successful Poll
+   22      210        203.357          0.25     Refine Mesh
+   23      213        197.866          0.25     Successful Search
+   24      219        189.916          0.25     Successful Search
+   25      225        189.241          0.25     Successful Search
+   26      239        183.523             1     Successful Poll
+   27      255        183.194             1     Successful Poll
+   28      267        183.194          0.25     Refine Mesh
+   29      273        182.814          0.25     Successful Search
+   30      279        179.041          0.25     Successful Search
+
+Iter     f-count        f(x)       MeshSize      Method
+   31      285        172.605          0.25     Successful Search
+   32      300        172.605        0.0625     Refine Mesh
+   33      315        171.577          0.25     Successful Poll
+   34      321        170.729          0.25     Successful Search
+   35      336        166.843             1     Successful Poll
+   36      352        166.843          0.25     Refine Mesh
+   37      367        166.843        0.0625     Refine Mesh
+   38      373        165.794        0.0625     Successful Search
+   39      379        165.079        0.0625     Successful Search
+   40      393        165.079       0.01563     Refine Mesh
+   41      396        164.144       0.01563     Successful Search
+   42      402         164.08       0.01563     Successful Search
+   43      418         164.08      0.003906     Refine Mesh
+   44      434         164.08     0.0009766     Refine Mesh
+   45      450         164.08     0.0002441     Refine Mesh
+   46      466         164.08     6.104e-05     Refine Mesh
+   47      482         164.08     1.526e-05     Refine Mesh
+   48      498         164.08     3.815e-06     Refine Mesh
+   49      500         164.08     9.537e-07     Refine Mesh
+Maximum number of function evaluations exceeded: increase options.MaxFunEvals.
+
+Obj. function:	    164.0800
+
+theta1:	   -5.148866   -0.171284   -9.431241   -6.525823   -1.406038   -5.339506
+
+theta2	    3.718159   -0.684323    3.121860   -2.138337   -3.833958
+
+gradient-analytical
+           -5.2324
+           16.7632
+           -0.9811
+            9.6754
+            9.1021
+
+gradient-numerical I
+           -5.4771
+           16.6005
+           -0.9937
+            9.7857
+            8.8067
+
+gradient-numerical II
+           -5.4497
+           16.6088
+           -0.9934
+            9.8252
+            8.8293
+
+hessian eigenvalues-numerical I
+         -488.3524
+         -212.6021
+            2.1116
+          110.4982
+          142.3711
+
+hessian eigenvalues-numerical II
+      -101404.5071
+         -570.2948
+            4.5664
+          144.0361
+        18470.8650
+
+========================================================================
+                       optimization routine : 8
+                     set of starting values :12
+========================================================================
+theta2 starting values:
+    1.003454   -0.012212    0.193796    1.160399    0.000088
+
+
+Iter     f-count          f(x)      MeshSize     Method
+    0        1        294.175             1      
+    1        7        275.385             1     Successful Search
+    2       13        269.966             1     Successful Search
+    3       18        269.226             1     Successful Search
+    4       33        269.226          0.25     Refine Mesh
+    5       39        268.431          0.25     Successful Search
+    6       45        268.352          0.25     Successful Search
+    7       51        267.208          0.25     Successful Search
+    8       57        266.943          0.25     Successful Search
+    9       73        266.595             1     Successful Poll
+   10       88        265.437             1     Successful Poll
+   11       94        264.973             1     Successful Search
+   12      100        263.984             1     Successful Search
+   13      113        263.672             1     Successful Poll
+   14      119        263.115             1     Successful Search
+   15      134        262.568             1     Successful Poll
+   16      138        262.303             1     Successful Search
+   17      144        262.065             1     Successful Search
+   18      149        261.539             1     Successful Search
+   19      154        261.379             1     Successful Search
+   20      167        261.256             1     Successful Poll
+   21      173        261.191             1     Successful Search
+   22      178        261.169             1     Successful Search
+   23      191        261.169          0.25     Refine Mesh
+   24      204        260.962             1     Successful Poll
+   25      210        260.953             1     Successful Search
+   26      216        260.543             1     Successful Search
+   27      222        260.138             1     Successful Search
+   28      227        259.762             1     Successful Search
+   29      233        259.387             1     Successful Search
+   30      249        259.044             1     Successful Poll
+
+Iter     f-count        f(x)       MeshSize      Method
+   31      258         259.04             1     Successful Poll
+   32      264        258.715             1     Successful Search
+   33      279         258.41             1     Successful Poll
+   34      285         258.41             1     Successful Search
+   35      298        258.143             1     Successful Poll
+   36      304        257.858             1     Successful Search
+   37      310        257.584             1     Successful Search
+   38      322        257.346             1     Successful Poll
+   39      326        257.105             1     Successful Search
+   40      341        256.899             1     Successful Poll
+   41      347        256.729             1     Successful Search
+   42      360        256.567             1     Successful Poll
+   43      366        255.754             1     Successful Search
+   44      372          255.3             1     Successful Search
+   45      388        254.982             1     Successful Poll
+   46      393         254.86             1     Successful Search
+   47      406         254.86          0.25     Refine Mesh
+   48      412        254.363          0.25     Successful Search
+   49      418        253.108          0.25     Successful Search
+   50      434        253.108        0.0625     Refine Mesh
+   51      450        253.047          0.25     Successful Poll
+   52      456        252.968          0.25     Successful Search
+   53      468        252.853             1     Successful Poll
+   54      474        252.809             1     Successful Search
+   55      487        252.626             1     Successful Poll
+   56      492        252.454             1     Successful Search
+   57      497        252.352             1     Successful Search
+   58      500        252.321             1     Successful Search
+Maximum number of function evaluations exceeded: increase options.MaxFunEvals.
+
+Obj. function:	    252.3213
+
+theta1:	   -4.501397    0.098218  -11.706605   -7.108698    3.902668   -5.505505
+
+theta2	   -2.496546   -0.148931    7.443796    0.410399    0.000546
+
+gradient-analytical
+            5.0526
+           -0.1698
+           -0.8430
+            4.4734
+           29.4846
+
+gradient-numerical I
+            5.0850
+           -0.2159
+           -0.8409
+            4.4695
+           29.4632
+
+gradient-numerical II
+            5.0852
+           -0.2159
+           -0.8409
+            4.4694
+           29.4569
+
+hessian eigenvalues-numerical I
+       -48487.7560
+          121.0740
+          282.9493
+        22767.5771
+        48646.3803
+
+hessian eigenvalues-numerical II
+        -2524.2005
+           -2.8081
+            0.4297
+           71.1407
+         2490.0486
+
+========================================================================
+                       optimization routine : 8
+                     set of starting values :13
+========================================================================
+theta2 starting values:
+    0.557738   -1.448433   -0.443654    0.671406    0.243918
+
+
+Iter     f-count          f(x)      MeshSize     Method
+    0        1        450.075             1      
+    1        7        269.447             1     Successful Search
+    2       13        263.044             1     Successful Search
+    3       19        258.258             1     Successful Search
+    4       25        245.475             1     Successful Search
+    5       31        240.681             1     Successful Search
+    6       46        228.339             1     Successful Poll
+    7       52        225.044             1     Successful Search
+    8       58        224.367             1     Successful Search
+    9       71        220.348             1     Successful Poll
+   10       75        219.449             1     Successful Search
+   11       88        219.449          0.25     Refine Mesh
+   12      104        217.336             1     Successful Poll
+   13      110        214.967             1     Successful Search
+   14      123        211.584             1     Successful Poll
+   15      138        209.774             1     Successful Poll
+   16      152        209.094             1     Successful Poll
+   17      167        209.094          0.25     Refine Mesh
+   18      173        207.058          0.25     Successful Search
+   19      188        205.861             1     Successful Poll
+   20      204        205.047             1     Successful Poll
+   21      209         203.47             1     Successful Search
+   22      221        202.852             1     Successful Poll
+   23      236        202.852          0.25     Refine Mesh
+   24      242        201.531          0.25     Successful Search
+   25      248        200.766          0.25     Successful Search
+   26      253        199.962          0.25     Successful Search
+   27      259        199.938          0.25     Successful Search
+   28      274        199.329             1     Successful Poll
+   29      287        199.329          0.25     Refine Mesh
+   30      303        199.329        0.0625     Refine Mesh
+
+Iter     f-count        f(x)       MeshSize      Method
+   31      309        195.083        0.0625     Successful Search
+   32      324        194.738          0.25     Successful Poll
+   33      340        194.371             1     Successful Poll
+   34      355        194.371          0.25     Refine Mesh
+   35      361        194.161          0.25     Successful Search
+   36      376        194.161        0.0625     Refine Mesh
+   37      381        194.137        0.0625     Successful Search
+   38      387        193.872        0.0625     Successful Search
+   39      393        191.924        0.0625     Successful Search
+   40      408         191.11          0.25     Successful Poll
+   41      414        190.895          0.25     Successful Search
+   42      429        190.617             1     Successful Poll
+   43      435        189.359             1     Successful Search
+   44      450        189.359          0.25     Refine Mesh
+   45      456        189.066          0.25     Successful Search
+   46      471        186.612             1     Successful Poll
+   47      486        186.612          0.25     Refine Mesh
+   48      499        186.612        0.0625     Refine Mesh
+   49      500        186.612       0.01563     Refine Mesh
+Maximum number of function evaluations exceeded: increase options.MaxFunEvals.
+
+Obj. function:	    186.6116
+
+theta1:	   -3.190431   -0.719896  -14.510926   -8.374024    0.501638   -5.174785
+
+theta2	    2.776488    0.926567   -3.287404   -3.047344   -3.224832
+
+gradient-analytical
+           26.9987
+         -149.9444
+           -4.3696
+           75.5268
+          -48.8539
+
+gradient-numerical I
+       184347.7385
+          -23.1691
+            2.8696
+            6.0651
+            4.6261
+
+gradient-numerical II
+            7.1858
+          -23.1429
+            2.8691
+            6.0584
+            4.6311
+
+hessian eigenvalues-numerical I
+           -1.9713
+            0.5992
+           39.8769
+          119.4360
+          271.5013
+
+hessian eigenvalues-numerical II
+       -61166.5611
+          -71.2395
+            5.0808
+           76.8952
+       120798.8989
+
+========================================================================
+                       optimization routine : 8
+                     set of starting values :14
+========================================================================
+theta2 starting values:
+    1.092558    1.702393    0.051339   -0.963917   -0.746689
+
+
+Iter     f-count          f(x)      MeshSize     Method
+    0        1        264.729             1      
+    1        7        241.639             1     Successful Search
+    2       23        221.453             1     Successful Poll
+    3       36        221.453          0.25     Refine Mesh
+    4       51        221.453        0.0625     Refine Mesh
+    5       56        220.273        0.0625     Successful Search
+    6       62        218.633        0.0625     Successful Search
+    7       68        215.938        0.0625     Successful Search
+    8       74        213.754        0.0625     Successful Search
+    9       80        209.248        0.0625     Successful Search
+   10       95        205.585          0.25     Successful Poll
+   11      101        203.704          0.25     Successful Search
+   12      116        203.704        0.0625     Refine Mesh
+   13      132        200.373          0.25     Successful Poll
+   14      148        200.373        0.0625     Refine Mesh
+   15      164        200.373       0.01563     Refine Mesh
+   16      180        200.373      0.003906     Refine Mesh
+   17      195        200.373     0.0009766     Refine Mesh
+   18      211        200.373     0.0002441     Refine Mesh
+   19      226        200.373     6.104e-05     Refine Mesh
+   20      242        200.373     1.526e-05     Refine Mesh
+   21      258        200.373     3.815e-06     Refine Mesh
+   22      273        200.373     9.537e-07     Refine Mesh
+   23      289        200.373     2.384e-07     Refine Mesh
+   24      304        200.373      5.96e-08     Refine Mesh
+   25      319        200.373      1.49e-08     Refine Mesh
+   26      335        200.373     3.725e-09     Refine Mesh
+   27      350        200.373     9.313e-10     Refine Mesh
+   28      366        200.373     2.328e-10     Refine Mesh
+   29      381        200.373     5.821e-11     Refine Mesh
+   30      397        200.373     1.455e-11     Refine Mesh
+
+Iter     f-count        f(x)       MeshSize      Method
+   31      413        200.373     3.638e-12     Refine Mesh
+   32      429        200.373     9.095e-13     Refine Mesh
+Optimization terminated: mesh size less than 'sqrt(TolMesh)'.
+
+Obj. function:	    200.3729
+
+theta1:	   -2.574472   -4.413206   -3.212718   -6.444932    2.396095   -2.764117
+
+theta2	    0.092558    2.452393    0.035714   -1.213917   -2.621689
+
+gradient-analytical
+            0.3526
+          -11.4212
+            2.1932
+           27.8094
+            3.0173
+
+gradient-numerical I
+            1.7831
+            7.7179
+            1.6805
+           22.8047
+           -2.1689
+
+gradient-numerical II
+            0.3531
+          -11.4211
+            2.1932
+           27.8088
+            3.0175
+
+hessian eigenvalues-numerical I
+           -0.2872
+            8.3421
+           83.9271
+          207.4876
+          965.2916
+
+hessian eigenvalues-numerical II
+        -5158.2358
+        -1275.1421
+           63.5167
+         2350.3438
+         4740.6270
+
+========================================================================
+                       optimization routine : 8
+                     set of starting values :15
+========================================================================
+theta2 starting values:
+    2.000574   -0.495340   -0.424115    2.171590   -0.377619
+
+
+Iter     f-count          f(x)      MeshSize     Method
+    0        1        475.625             1      
+    1        6        276.556             1     Successful Search
+    2       12        266.456             1     Successful Search
+    3       18         261.45             1     Successful Search
+    4       30        251.369             1     Successful Poll
+    5       36        251.075             1     Successful Search
+    6       42        246.685             1     Successful Search
+    7       48        246.368             1     Successful Search
+    8       62        224.102             1     Successful Poll
+    9       77        214.202             1     Successful Poll
+   10       90        214.202          0.25     Refine Mesh
+   11      106        213.794             1     Successful Poll
+   12      121        213.165             1     Successful Poll
+   13      126        212.825             1     Successful Search
+   14      140        212.366             1     Successful Poll
+   15      152        212.366          0.25     Refine Mesh
+   16      167        209.285             1     Successful Poll
+   17      181        209.285          0.25     Refine Mesh
+   18      187        208.667          0.25     Successful Search
+   19      202        208.667        0.0625     Refine Mesh
+   20      217        208.559          0.25     Successful Poll
+   21      231        208.559        0.0625     Refine Mesh
+   22      235        207.542        0.0625     Successful Search
+   23      250        207.542       0.01563     Refine Mesh
+   24      256        205.171       0.01563     Successful Search
+   25      262        204.649       0.01563     Successful Search
+   26      267        204.048       0.01563     Successful Search
+   27      273        203.503       0.01563     Successful Search
+   28      279        203.471       0.01563     Successful Search
+   29      294        203.334        0.0625     Successful Poll
+   30      309        203.128          0.25     Successful Poll
+
+Iter     f-count        f(x)       MeshSize      Method
+   31      322        202.261             1     Successful Poll
+   32      337        202.261          0.25     Refine Mesh
+   33      353        202.261        0.0625     Refine Mesh
+   34      369        202.053          0.25     Successful Poll
+   35      375         201.85          0.25     Successful Search
+   36      390         201.85        0.0625     Refine Mesh
+   37      396         201.43        0.0625     Successful Search
+   38      402        200.661        0.0625     Successful Search
+   39      418        200.661       0.01563     Refine Mesh
+   40      424        199.493       0.01563     Successful Search
+   41      439        199.387        0.0625     Successful Poll
+   42      455         198.95          0.25     Successful Poll
+   43      461        197.676          0.25     Successful Search
+   44      476        197.676        0.0625     Refine Mesh
+   45      492        197.676       0.01563     Refine Mesh
+   46      500        197.676      0.003906     Refine Mesh
+Maximum number of function evaluations exceeded: increase options.MaxFunEvals.
+
+Obj. function:	    197.6757
+
+theta1:	   -3.001598   -0.912420  -14.902363   -7.471386    0.864048   -5.066747
+
+theta2	    2.594324    1.004660   -2.189740   -2.359660   -2.846369
+
+gradient-analytical
+           -7.4643
+           39.5904
+            5.6285
+           15.5484
+           -3.7200
+
+gradient-numerical I
+       169570.5849
+           23.0118
+            4.9518
+           14.1774
+           -0.3981
+
+gradient-numerical II
+           -1.4118
+           23.0807
+            4.9537
+           14.1776
+           -0.4333
+
+hessian eigenvalues-numerical I
+           -0.4776
+            1.1869
+           40.3732
+          132.6109
+          426.2476
+
+hessian eigenvalues-numerical II
+      -187826.6608
+         -127.0414
+           25.0355
+          398.7132
+        49768.9201
+
+Saving optimization results...

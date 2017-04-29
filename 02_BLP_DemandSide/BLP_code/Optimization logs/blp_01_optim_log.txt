@@ -1,0 +1,211 @@
+
+========================================================================
+                       optimization routine : 1
+                     set of starting values : 1
+========================================================================
+theta2 starting values:
+   -2.586421   -0.616377    0.227579   -0.715240   -0.990075
+                                                        First-order 
+ Iteration  Func-count       f(x)        Step-size       optimality
+     0           1          237.294                           171
+     1           3           219.82     0.00100752           46.7  
+     2           4          216.995              1           31.5  
+     3           5          199.635              1           91.6  
+     4           6          192.253              1           65.6  
+     5           7          185.517              1           29.1  
+     6           8          183.101              1           34.6  
+     7           9          173.177              1           74.8  
+     8          10          163.057              1           97.7  
+     9          11          153.061              1           59.4  
+    10          12          143.727              1             23  
+    11          13          142.647              1           27.9  
+    12          14          139.656              1           24.6  
+    13          15          137.368              1             21  
+    14          16          136.342              1           69.9  
+    15          19          126.624            5.5           61.5  
+    16          20          120.257              1           50.6  
+    17          21          118.385              1           21.3  
+    18          23           115.11       0.298416           62.8  
+    19          25          111.585       0.107807           16.4  
+                                                        First-order 
+ Iteration  Func-count       f(x)        Step-size       optimality
+    20          27          107.648              2           48.9  
+
+<a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'local_min_possible','CSHelpWindow');">Local minimum possible</a>.
+
+fminunc stopped because it cannot decrease the objective function
+along the current <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'search_direction','CSHelpWindow');">search direction</a>.
+
+<<a href = "matlab: createExitMsg('fminusub',5.000000e+00,true,true,'fminunc',0.000000e+00,'',0.000000e+00,0.000000e+00,'',0.000000e+00,0.000000e+00,'',0.000000e+00);">stopping criteria details</a>>
+
+
+Obj. function:	    107.6482
+
+theta1:	  -10.673246   -3.557409   -9.953715    1.268909   -1.933173  -10.746821
+
+theta2	   -8.221336   -0.565419   -2.348282   -1.814793   -1.745807
+
+gradient-analytical
+          -12.3869
+           17.0643
+          -12.7002
+           61.9176
+            0.2529
+
+gradient-numerical I
+          -62.4348
+            1.2142
+           -8.6576
+          109.8770
+            1.0915
+
+gradient-numerical II
+          -12.3804
+           17.0563
+          -12.6870
+           61.9135
+            0.2523
+
+hessian eigenvalues-numerical I
+       -64361.3156
+       -46853.4799
+        -5115.5189
+         -186.3856
+        19289.3215
+
+hessian eigenvalues-numerical II
+     -1930652.6148
+        -7155.3451
+           23.8018
+         8432.7268
+      2526176.7080
+
+========================================================================
+                       optimization routine : 1
+                     set of starting values : 2
+========================================================================
+theta2 starting values:
+   -1.834895   -2.664368   -0.842164    0.478726   -0.629552
+                                                        First-order 
+ Iteration  Func-count       f(x)        Step-size       optimality
+     0           1          447.291                           222
+     1           3           391.07     0.00161895           76.9  
+     2           5          311.723        7.76429             85  
+     3           8           250.11      0.0985506            137  
+     4           9          233.449              1           36.2  
+     5          10          230.829              1           34.5  
+     6          11          227.849              1           31.6  
+     7          12          220.881              1             63  
+     8          13          206.305              1            132  
+     9          14          188.039              1           99.5  
+    10          15          124.074              1            115  
+    11          16          122.952              1           18.5  
+    12          17          116.463              1           82.9  
+    13          21          113.816       0.290417           15.4  
+    14          22          113.176              1           8.45  
+    15          24          110.712       0.159766           29.1  
+    16          40          109.602          0.001             14  
+
+<a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'local_min_possible','CSHelpWindow');">Local minimum possible</a>.
+
+fminunc stopped because the <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'norm_current_step','CSHelpWindow');">size of the current step</a> is less than
+the selected value of the <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'step_size_tol','CSHelpWindow');">step size tolerance</a>.
+
+<<a href = "matlab: createExitMsg('fminusub',2.000000e+00,true,true,'fminunc',1.071933e-04,'selected',1.000000e-03,0.000000e+00,'',0.000000e+00,0.000000e+00,'',0.000000e+00);">stopping criteria details</a>>
+
+
+<a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'local_min_possible','CSHelpWindow');">Local minimum possible</a>.
+
+fminunc stopped because it cannot decrease the objective function
+along the current <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'search_direction','CSHelpWindow');">search direction</a>.
+
+<<a href = "matlab: createExitMsg('fminusub',5.000000e+00,true,true,'fminunc',0.000000e+00,'',0.000000e+00,0.000000e+00,'',0.000000e+00,0.000000e+00,'',0.000000e+00);">stopping criteria details</a>>
+
+
+Obj. function:	    109.6021
+
+theta1:	  -10.390907   -3.759072   -9.672954    1.881788   -1.765878  -10.612095
+
+theta2	   -7.828346   -0.728030   -1.648322   -1.674789   -1.586780
+
+gradient-analytical
+           -3.0260
+            5.9320
+            5.3817
+           13.9537
+            0.6874
+
+gradient-numerical I
+          -60.2658
+           -1.8405
+            0.9551
+           63.1101
+            0.9974
+
+gradient-numerical II
+           -3.0266
+            5.9330
+            5.3808
+           13.9536
+            0.6874
+
+hessian eigenvalues-numerical I
+        -2204.7940
+            9.4908
+          421.7730
+         4219.6338
+         5816.6823
+
+hessian eigenvalues-numerical II
+      -240267.9611
+        -2257.6387
+            8.3583
+         3570.5897
+       183753.9249
+
+========================================================================
+                       optimization routine : 1
+                     set of starting values : 3
+========================================================================
+theta2 starting values:
+   -0.671239   -0.908876    0.387423   -0.209479    1.235660
+                                                        First-order 
+ Iteration  Func-count       f(x)        Step-size       optimality
+     0           1           334.39                          93.2
+     1           3          287.034     0.00536221           56.8  
+     2           4           269.59              1           54.7  
+     3           5           236.92              1           45.4  
+     4           6          229.622              1           28.1  
+     5           7          200.528              1           35.2  
+     6           9          141.612       0.492444           32.4  
+     7          10           131.42              1           14.9  
+     8          11          116.273              1           24.8  
+     9          12          112.529              1           19.4  
+    10          13          109.606              1           10.1  
+
+<a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'local_min_possible','CSHelpWindow');">Local minimum possible</a>.
+
+fminunc stopped because it cannot decrease the objective function
+along the current <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'search_direction','CSHelpWindow');">search direction</a>.
+
+<<a href = "matlab: createExitMsg('fminusub',5.000000e+00,true,true,'fminunc',0.000000e+00,'',0.000000e+00,0.000000e+00,'',0.000000e+00,0.000000e+00,'',0.000000e+00);">stopping criteria details</a>>
+
+{Operation terminated by user during <a href="matlab:matlab.internal.language.introspective.errorDocCallback('ind_sh', 'E:\Dropbox\Documents\Academic\06_IO\04_CU_Emprical\hw2_BLP\BLP_zero_code\ind_sh.m', 6)" style="font-weight:bold">ind_sh</a> (<a href="matlab: opentoline('E:\Dropbox\Documents\Academic\06_IO\04_CU_Emprical\hw2_BLP\BLP_zero_code\ind_sh.m',6,0)">line 6</a>)
+
+
+In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('mktsh', 'E:\Dropbox\Documents\Academic\06_IO\04_CU_Emprical\hw2_BLP\BLP_zero_code\mktsh.m', 5)" style="font-weight:bold">mktsh</a> (<a href="matlab: opentoline('E:\Dropbox\Documents\Academic\06_IO\04_CU_Emprical\hw2_BLP\BLP_zero_code\mktsh.m',5,0)">line 5</a>)
+f = sum((ind_sh(mval,expmu))')/ns;
+
+In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('meanval', 'E:\Dropbox\Documents\Academic\06_IO\04_CU_Emprical\hw2_BLP\BLP_zero_code\meanval.m', 23)" style="font-weight:bold">meanval</a> (<a href="matlab: opentoline('E:\Dropbox\Documents\Academic\06_IO\04_CU_Emprical\hw2_BLP\BLP_zero_code\meanval.m',23,0)">line 23</a>)
+	  mval = mvalold.*s_jt./mktsh(mvalold,expmu);
+
+In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('gmmobj', 'E:\Dropbox\Documents\Academic\06_IO\04_CU_Emprical\hw2_BLP\BLP_zero_code\gmmobj.m', 10)" style="font-weight:bold">gmmobj</a> (<a href="matlab: opentoline('E:\Dropbox\Documents\Academic\06_IO\04_CU_Emprical\hw2_BLP\BLP_zero_code\gmmobj.m',10,0)">line 10</a>)
+delta = meanval(theta2);
+
+In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('blp_hessian_mat', 'E:\Dropbox\Documents\Academic\06_IO\04_CU_Emprical\hw2_BLP\BLP_zero_code\optimization routines\blp_hessian_mat.m', 54)" style="font-weight:bold">blp_hessian_mat</a> (<a href="matlab: opentoline('E:\Dropbox\Documents\Academic\06_IO\04_CU_Emprical\hw2_BLP\BLP_zero_code\optimization routines\blp_hessian_mat.m',54,0)">line 54</a>)
+        aa=feval(func,xh1);
+
+In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'E:\Dropbox\Documents\Academic\06_IO\04_CU_Emprical\hw2_BLP\BLP_zero_code\main.m', 467)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('E:\Dropbox\Documents\Academic\06_IO\04_CU_Emprical\hw2_BLP\BLP_zero_code\main.m',467,0)">line 467</a>)
+        H = blp_hessian_mat('gmmobj',theta2,[]);
+} 
+main
